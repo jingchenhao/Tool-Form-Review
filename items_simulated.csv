@@ -1,0 +1,901 @@
+"Opps","Form","ItemId","Subject","Grade","Reporting_Category","Knowledge_and_Skill","Subject_Grade","difficulty","P.Value","ScorePoints","model","P0","P1","P2"
+"Opportunity 3","Easy","A39185","Math",3,"4.Measurement","4.Measurement.1","Math_G3",-0.512369745487543,0.97,1,"logit",1,-0.512369745487543,0
+"Opportunity 2","Easy","A73699","Math",3,"2.Algebra","2.Algebra.6","Math_G3",-1.20134117164123,0.64,1,"logit",1,-1.20134117164123,0
+"Opportunity 2","Easy","A45039","Math",3,"1.Probability","1.Probability.2","Math_G3",-1.03398326981544,0.59,1,"logit",1,-1.03398326981544,0
+"Opportunity 1","Easy","A19880","Language Arts",4,"3.Grammar","3.Grammar.2","Language Arts_G4",-1.52146242526507,0.7,2,"adjacent logit",-2.55361751611045,-0.489307334419689,NA
+"Opportunity 2","Easy","A41230","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-1.22647472390771,0.99,2,"adjacent logit",-2.1463874821272,-0.30656196568822,NA
+"Opportunity 3","Easy","A60960","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-1.18603247160463,0.89,1,"logit",1,-1.18603247160463,0
+"Opportunity 2","Easy","A96720","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-0.888812401937072,0.85,1,"logit",1,-0.888812401937072,0
+"Opportunity 2","Easy","A21976","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",0.0339863016604887,0.93,2,"adjacent logit",-0.355848905146766,0.423821508467743,NA
+"Opportunity 3","Easy","A26830","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",-0.229210612317978,0.56,1,"logit",1,-0.229210612317978,0
+"Opportunity 1","Easy","A82443","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",0.84033695946633,0.86,1,"logit",1,0.84033695946633,0
+"Opportunity 1","Easy","A26742","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-1.04627808456361,0.78,2,"adjacent logit",-3.9884912861251,1.89593511699787,NA
+"Opportunity 3","Easy","A12900","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",-0.311144489297153,0.97,1,"logit",1,-0.311144489297153,0
+"Opportunity 1","Easy","A52832","Math",3,"3.Geometry","3.Geometry.2","Math_G3",-0.791002925198355,0.59,1,"logit",1,-0.791002925198355,0
+"Opportunity 1","Easy","A34311","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",-2.32681798314754,0.52,1,"logit",1,-2.32681798314754,0
+"Opportunity 1","Easy","A13551","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-1.31523689005069,0.87,1,"logit",1,-1.31523689005069,0
+"Opportunity 2","Easy","A65763","Language Arts",4,"1.Vocabulary","1.Vocabulary.5","Language Arts_G4",-1.51603723561173,0.59,2,"adjacent logit",-1.61672271936628,-1.41535175185719,NA
+"Opportunity 1","Easy","A22263","Math",3,"2.Algebra","2.Algebra.5","Math_G3",-2.07303825816894,0.7,1,"logit",1,-2.07303825816894,0
+"Opportunity 3","Easy","A98919","Math",3,"4.Measurement","4.Measurement.1","Math_G3",-1.50800582046048,0.89,1,"logit",1,-1.50800582046048,0
+"Opportunity 1","Easy","A75662","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-1.27339427663297,0.87,1,"logit",1,-1.27339427663297,0
+"Opportunity 1","Easy","A70409","Math",3,"4.Measurement","4.Measurement.5","Math_G3",-1.0612981697599,0.94,2,"adjacent logit",-3.06092833963226,0.938332000112464,NA
+"Opportunity 1","Easy","A39831","Natural Science",5,"4.Chemistry","4.Chemistry.5","Natural Science_G5",-0.165149422757944,0.69,2,"adjacent logit",-0.899959502272365,0.569660656756477,NA
+"Opportunity 3","Easy","A62475","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-2.08583433427526,0.59,1,"logit",1,-2.08583433427526,0
+"Opportunity 1","Easy","A56931","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",-2.33389139158602,0.85,1,"logit",1,-2.33389139158602,0
+"Opportunity 2","Easy","A21204","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",0.610202998359843,0.85,2,"adjacent logit",-0.0509140944770894,1.27132009119677,NA
+"Opportunity 3","Easy","A63716","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",0.0528784275778635,0.79,1,"logit",1,0.0528784275778635,0
+"Opportunity 2","Easy","A37417","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",-1.72411712850624,0.62,1,"logit",1,-1.72411712850624,0
+"Opportunity 1","Easy","A37080","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",-1.08170512174042,0.63,1,"logit",1,-1.08170512174042,0
+"Opportunity 2","Easy","A24033","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.343170816387242,0.79,1,"logit",1,0.343170816387242,0
+"Opportunity 1","Easy","A44089","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-1.41158037569627,0.73,1,"logit",1,-1.41158037569627,0
+"Opportunity 1","Easy","A34901","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-2.30788867265912,0.77,1,"logit",1,-2.30788867265912,0
+"Opportunity 1","Easy","A79653","Math",3,"4.Measurement","4.Measurement.6","Math_G3",-1.28954657927092,0.98,2,"adjacent logit",-1.59620030913339,-0.982892849408443,NA
+"Opportunity 3","Easy","A69906","Math",3,"4.Measurement","4.Measurement.2","Math_G3",-1.37988538697268,0.93,2,"adjacent logit",-3.46524539372021,0.705474619774844,NA
+"Opportunity 3","Easy","A80001","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",0.25114779263118,0.73,1,"logit",1,0.25114779263118,0
+"Opportunity 1","Easy","A89225","Math",3,"2.Algebra","2.Algebra.6","Math_G3",-0.0257294278576246,0.92,1,"logit",1,-0.0257294278576246,0
+"Opportunity 3","Easy","A28401","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.874695789069756,0.84,1,"logit",1,0.874695789069756,0
+"Opportunity 3","Easy","A89539","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",-0.591277033521107,0.77,1,"logit",1,-0.591277033521107,0
+"Opportunity 1","Easy","A70139","Math",3,"4.Measurement","4.Measurement.3","Math_G3",-0.312618585996246,0.93,1,"logit",1,-0.312618585996246,0
+"Opportunity 1","Easy","A79801","Math",3,"2.Algebra","2.Algebra.5","Math_G3",-1.65933594889804,0.5,1,"logit",1,-1.65933594889804,0
+"Opportunity 1","Easy","A19602","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-3.02653915502476,0.98,1,"logit",1,-3.02653915502476,0
+"Opportunity 3","Easy","A50863","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-1.10973549686313,0.83,1,"logit",1,-1.10973549686313,0
+"Opportunity 1","Easy","A63660","Math",3,"1.Probability","1.Probability.1","Math_G3",-1.38681837382825,0.82,1,"logit",1,-1.38681837382825,0
+"Opportunity 2","Easy","A93667","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",-0.934752262840863,0.51,1,"logit",1,-0.934752262840863,0
+"Opportunity 3","Easy","A27520","Math",3,"1.Probability","1.Probability.1","Math_G3",0.392754400869685,0.64,1,"logit",1,0.392754400869685,0
+"Opportunity 3","Easy","A28099","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",-1.46291965084982,0.66,1,"logit",1,-1.46291965084982,0
+"Opportunity 2","Easy","A56678","Math",3,"4.Measurement","4.Measurement.1","Math_G3",-0.476924752822947,0.71,1,"logit",1,-0.476924752822947,0
+"Opportunity 1","Easy","A57984","Math",3,"1.Probability","1.Probability.4","Math_G3",-0.00289410766850595,0.89,1,"logit",1,-0.00289410766850595,0
+"Opportunity 2","Easy","A31943","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-1.07069133713448,0.5,1,"logit",1,-1.07069133713448,0
+"Opportunity 2","Easy","A22619","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",-0.678777274233071,0.63,1,"logit",1,-0.678777274233071,0
+"Opportunity 1","Easy","A42702","Math",3,"3.Geometry","3.Geometry.4","Math_G3",0.377167592861144,0.83,1,"logit",1,0.377167592861144,0
+"Opportunity 2","Easy","A20460","Math",3,"4.Measurement","4.Measurement.3","Math_G3",0.103475422927029,0.83,2,"adjacent logit",-2.75232816581808,2.95927901167214,NA
+"Opportunity 3","Easy","A62205","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-2.698344411304,1,1,"logit",1,-2.698344411304,0
+"Opportunity 1","Easy","A70759","Math",3,"2.Algebra","2.Algebra.3","Math_G3",-1.19988462060656,0.92,1,"logit",1,-1.19988462060656,0
+"Opportunity 3","Easy","A15944","Math",3,"1.Probability","1.Probability.4","Math_G3",-2.26739839227601,0.91,1,"logit",1,-2.26739839227601,0
+"Opportunity 1","Easy","A34824","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.9649372707374,0.55,1,"logit",1,-0.9649372707374,0
+"Opportunity 1","Easy","A25859","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",1.35434721321623,0.82,1,"logit",1,1.35434721321623,0
+"Opportunity 2","Easy","A70260","Math",3,"3.Geometry","3.Geometry.5","Math_G3",0.128714591273937,0.67,1,"logit",1,0.128714591273937,0
+"Opportunity 2","Easy","A75326","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",-1.04826606139125,0.96,1,"logit",1,-1.04826606139125,0
+"Opportunity 1","Easy","A46090","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",-2.9424682663552,0.83,1,"logit",1,-2.9424682663552,0
+"Opportunity 3","Easy","A68715","Math",3,"3.Geometry","3.Geometry.6","Math_G3",0.03677192796965,0.76,2,"adjacent logit",-2.34514178387945,2.41868563981875,NA
+"Opportunity 2","Easy","A63207","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",-0.49659171790577,0.74,1,"logit",1,-0.49659171790577,0
+"Opportunity 3","Easy","A60514","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-1.18926810351802,0.81,1,"logit",1,-1.18926810351802,0
+"Opportunity 3","Easy","A58905","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",-2.00685928312385,0.72,1,"logit",1,-2.00685928312385,0
+"Opportunity 2","Easy","A61882","Math",3,"4.Measurement","4.Measurement.5","Math_G3",-0.185667855195607,0.77,1,"logit",1,-0.185667855195607,0
+"Opportunity 1","Easy","A31744","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-1.02459455578852,0.84,1,"logit",1,-1.02459455578852,0
+"Opportunity 3","Easy","A57270","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",0.660056756328465,0.8,2,"adjacent logit",0.231081759478907,1.08903175317802,NA
+"Opportunity 2","Easy","A85964","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-0.246513340224135,0.6,1,"logit",1,-0.246513340224135,0
+"Opportunity 3","Easy","A95232","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",-1.97388708517223,0.52,2,"adjacent logit",-2.88912164824024,-1.05865252210422,NA
+"Opportunity 3","Easy","A93479","Language Arts",4,"3.Grammar","3.Grammar.1","Language Arts_G4",-1.31891278667055,0.5,2,"adjacent logit",-3.68677495509347,1.04894938175237,NA
+"Opportunity 1","Easy","A76375","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",-1.53943588442514,0.67,1,"logit",1,-1.53943588442514,0
+"Opportunity 2","Easy","A81044","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",0.85081348451802,0.72,1,"logit",1,0.85081348451802,0
+"Opportunity 2","Easy","A26077","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",-0.681147385169734,0.96,1,"logit",1,-0.681147385169734,0
+"Opportunity 2","Easy","A44005","Math",3,"1.Probability","1.Probability.6","Math_G3",-0.856204244558258,0.69,1,"logit",1,-0.856204244558258,0
+"Opportunity 3","Easy","A10019","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",-0.571923666884829,0.83,1,"logit",1,-0.571923666884829,0
+"Opportunity 2","Easy","A20995","Math",3,"3.Geometry","3.Geometry.5","Math_G3",-0.474726998291053,0.54,1,"logit",1,-0.474726998291053,0
+"Opportunity 3","Easy","A14169","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-1.13792481728861,0.59,1,"logit",1,-1.13792481728861,0
+"Opportunity 3","Easy","A87097","Math",3,"3.Geometry","3.Geometry.6","Math_G3",-0.990907889316463,0.63,1,"logit",1,-0.990907889316463,0
+"Opportunity 3","Easy","A63949","Math",3,"2.Algebra","2.Algebra.2","Math_G3",-0.937943971018422,0.8,1,"logit",1,-0.937943971018422,0
+"Opportunity 1","Easy","A10459","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.0659774551083728,0.52,1,"logit",1,-0.0659774551083728,0
+"Opportunity 3","Easy","A63745","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",0.925446675009532,0.65,1,"logit",1,0.925446675009532,0
+"Opportunity 2","Easy","A60647","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-0.80393001229026,0.74,1,"logit",1,-0.80393001229026,0
+"Opportunity 2","Easy","A63451","Math",3,"4.Measurement","4.Measurement.3","Math_G3",-0.192317452367292,0.76,1,"logit",1,-0.192317452367292,0
+"Opportunity 3","Easy","A12141","Math",3,"4.Measurement","4.Measurement.6","Math_G3",-0.760214686903922,0.85,1,"logit",1,-0.760214686903922,0
+"Opportunity 2","Easy","A38416","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",-0.99936439196233,0.69,1,"logit",1,-0.99936439196233,0
+"Opportunity 1","Easy","A15217","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",-1.54967835834104,0.71,1,"logit",1,-1.54967835834104,0
+"Opportunity 3","Easy","A69986","Math",3,"3.Geometry","3.Geometry.6","Math_G3",-0.0685719461157231,0.57,1,"logit",1,-0.0685719461157231,0
+"Opportunity 3","Easy","A61840","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.235075964576708,0.53,1,"logit",1,-0.235075964576708,0
+"Opportunity 1","Easy","A36490","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",-0.338960584394845,0.95,2,"adjacent logit",-3.49529508953906,2.81737392074937,NA
+"Opportunity 3","Easy","A19470","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-0.995914822690056,0.64,2,"adjacent logit",-3.53960929262351,1.54777964724339,NA
+"Opportunity 1","Easy","A81146","Math",3,"2.Algebra","2.Algebra.4","Math_G3",0.254350176811576,0.79,2,"adjacent logit",-3.18609096389693,3.69479131752008,NA
+"Opportunity 1","Easy","A61261","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",-1.6303882169309,0.85,1,"logit",1,-1.6303882169309,0
+"Opportunity 3","Easy","A87506","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",-2.18426971581045,0.78,1,"logit",1,-2.18426971581045,0
+"Opportunity 3","Easy","A99422","Math",3,"1.Probability","1.Probability.4","Math_G3",-1.4377034342932,0.92,1,"logit",1,-1.4377034342932,0
+"Opportunity 2","Easy","A40073","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",-0.692474726755408,0.74,1,"logit",1,-0.692474726755408,0
+"Opportunity 3","Easy","A61736","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",-2.68894156069494,0.91,1,"logit",1,-2.68894156069494,0
+"Opportunity 1","Easy","A31118","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",-0.620286001621293,0.65,1,"logit",1,-0.620286001621293,0
+"Opportunity 3","Easy","A89725","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",-3.98976184684461,0.87,1,"logit",1,-3.98976184684461,0
+"Opportunity 3","Easy","A26215","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",0.0394493314764416,0.95,1,"logit",1,0.0394493314764416,0
+"Opportunity 2","Easy","A22790","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-0.838164189974111,0.64,1,"logit",1,-0.838164189974111,0
+"Opportunity 2","Easy","A53789","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-0.509038666004292,0.57,1,"logit",1,-0.509038666004292,0
+"Opportunity 3","Easy","A47102","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",0.0844639140731647,0.94,1,"logit",1,0.0844639140731647,0
+"Opportunity 3","Easy","A83469","Math",3,"3.Geometry","3.Geometry.6","Math_G3",-2.41828704349701,0.52,1,"logit",1,-2.41828704349701,0
+"Opportunity 3","Easy","A26981","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.874769154582479,0.91,1,"logit",1,-0.874769154582479,0
+"Opportunity 3","Easy","A48576","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",1.26760450260465,0.55,1,"logit",1,1.26760450260465,0
+"Opportunity 2","Easy","A45657","Language Arts",4,"3.Grammar","3.Grammar.2","Language Arts_G4",-0.61064202240115,0.74,2,"adjacent logit",-1.10741941184922,-0.113864632953085,NA
+"Opportunity 1","Easy","A52762","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",-1.55808297266702,0.94,1,"logit",1,-1.55808297266702,0
+"Opportunity 1","Easy","A76177","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",-0.968295627013245,0.55,2,"adjacent logit",-2.55118846066436,0.614597206637866,NA
+"Opportunity 2","Easy","A47323","Math",3,"3.Geometry","3.Geometry.3","Math_G3",-1.73257890440509,0.95,2,"adjacent logit",-2.24571416011173,-1.21944364869845,NA
+"Opportunity 3","Easy","A50915","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",-0.867771864351045,0.96,1,"logit",1,-0.867771864351045,0
+"Opportunity 1","Easy","A55398","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",-0.0526669959279251,0.57,1,"logit",1,-0.0526669959279251,0
+"Opportunity 3","Easy","A20452","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",0.587999447818099,0.52,1,"logit",1,0.587999447818099,0
+"Opportunity 2","Easy","A42451","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",-0.568708711110945,0.94,2,"adjacent logit",-2.41440421444149,1.2769867922196,NA
+"Opportunity 1","Easy","A51743","Math",3,"1.Probability","1.Probability.4","Math_G3",-0.935115918813577,0.9,1,"logit",1,-0.935115918813577,0
+"Opportunity 1","Easy","A34447","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",-1.83383653660847,0.67,1,"logit",1,-1.83383653660847,0
+"Opportunity 3","Easy","A69830","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.858657045140746,0.68,2,"adjacent logit",-2.40734626260603,0.690032172324534,NA
+"Opportunity 2","Easy","A36930","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",-0.508202223976896,0.86,1,"logit",1,-0.508202223976896,0
+"Opportunity 3","Easy","A52568","Math",3,"1.Probability","1.Probability.5","Math_G3",-0.611635865921864,0.58,1,"logit",1,-0.611635865921864,0
+"Opportunity 2","Easy","A82747","Math",3,"3.Geometry","3.Geometry.4","Math_G3",0.280121159913752,0.5,1,"logit",1,0.280121159913752,0
+"Opportunity 3","Easy","A86559","Math",3,"2.Algebra","2.Algebra.3","Math_G3",-0.586792537692827,0.7,2,"adjacent logit",-1.81055493306734,0.63696985768169,NA
+"Opportunity 2","Easy","A59567","Math",3,"3.Geometry","3.Geometry.6","Math_G3",-0.661498482669225,0.75,1,"logit",1,-0.661498482669225,0
+"Opportunity 1","Easy","A50679","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",0.841190537673224,0.65,1,"logit",1,0.841190537673224,0
+"Opportunity 1","Easy","A59018","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-1.9497483857159,0.73,1,"logit",1,-1.9497483857159,0
+"Opportunity 3","Easy","A10747","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",-2.07757986193785,0.58,1,"logit",1,-2.07757986193785,0
+"Opportunity 1","Easy","A21664","Math",3,"3.Geometry","3.Geometry.4","Math_G3",-2.0962625097989,0.83,1,"logit",1,-2.0962625097989,0
+"Opportunity 3","Easy","A85922","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",-0.0139649632909237,0.93,1,"logit",1,-0.0139649632909237,0
+"Opportunity 1","Easy","A37125","Math",3,"2.Algebra","2.Algebra.2","Math_G3",-0.685578504473445,0.9,1,"logit",1,-0.685578504473445,0
+"Opportunity 2","Easy","A81190","Math",3,"4.Measurement","4.Measurement.3","Math_G3",-1.1455315836869,0.61,2,"adjacent logit",-3.09067170986816,0.799608542494354,NA
+"Opportunity 1","Easy","A75676","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-0.595708602864377,0.76,1,"logit",1,-0.595708602864377,0
+"Opportunity 1","Easy","A86598","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-0.234096833290687,0.61,1,"logit",1,-0.234096833290687,0
+"Opportunity 1","Easy","A20511","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",-0.753215691245104,0.76,1,"logit",1,-0.753215691245104,0
+"Opportunity 2","Easy","A45358","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-0.538195013938505,0.98,1,"logit",1,-0.538195013938505,0
+"Opportunity 2","Easy","A53062","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-0.355924757398364,0.98,1,"logit",1,-0.355924757398364,0
+"Opportunity 1","Easy","A19906","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-2.33357724115361,0.69,2,"adjacent logit",-3.09474433542699,-1.57241014688024,NA
+"Opportunity 3","Easy","A88931","Math",3,"1.Probability","1.Probability.2","Math_G3",-1.38802408165641,0.6,1,"logit",1,-1.38802408165641,0
+"Opportunity 1","Easy","A49149","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",0.432353869789796,0.97,1,"logit",1,0.432353869789796,0
+"Opportunity 3","Easy","A11329","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",2.30258763595826,0.87,1,"logit",1,2.30258763595826,0
+"Opportunity 1","Easy","A63400","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",-2.04438621791881,0.53,1,"logit",1,-2.04438621791881,0
+"Opportunity 3","Easy","A62542","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.159688834808336,0.68,2,"adjacent logit",-3.42685577975074,3.10747811013407,NA
+"Opportunity 1","Easy","A53909","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-1.21464867815617,0.91,1,"logit",1,-1.21464867815617,0
+"Opportunity 2","Easy","A58888","Math",3,"2.Algebra","2.Algebra.3","Math_G3",-0.113713910102247,0.51,2,"adjacent logit",-2.34100052225249,2.113572702048,NA
+"Opportunity 3","Easy","A89596","Math",3,"3.Geometry","3.Geometry.4","Math_G3",-2.11383737872408,0.64,1,"logit",1,-2.11383737872408,0
+"Opportunity 2","Easy","A65988","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",0.812156455767745,0.89,1,"logit",1,0.812156455767745,0
+"Opportunity 2","Easy","A31882","Math",3,"2.Algebra","2.Algebra.5","Math_G3",1.13935394374935,0.76,1,"logit",1,1.13935394374935,0
+"Opportunity 2","Easy","A30989","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",-1.63621640158375,0.85,1,"logit",1,-1.63621640158375,0
+"Opportunity 1","Easy","A34195","Math",3,"1.Probability","1.Probability.4","Math_G3",-1.76960665291175,0.81,1,"logit",1,-1.76960665291175,0
+"Opportunity 3","Easy","A58076","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",-0.146460187645799,0.98,2,"adjacent logit",-3.06568199865958,2.77276162336798,NA
+"Opportunity 3","Easy","A17833","Language Arts",4,"1.Vocabulary","1.Vocabulary.5","Language Arts_G4",-0.0356380561639794,0.9,1,"logit",1,-0.0356380561639794,0
+"Opportunity 3","Easy","A39524","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",0.477873898028304,0.68,1,"logit",1,0.477873898028304,0
+"Opportunity 1","Easy","A12102","Math",3,"3.Geometry","3.Geometry.3","Math_G3",-0.524858673401446,0.82,1,"logit",1,-0.524858673401446,0
+"Opportunity 1","Easy","A25658","Math",3,"2.Algebra","2.Algebra.3","Math_G3",-0.557655969145856,0.69,1,"logit",1,-0.557655969145856,0
+"Opportunity 3","Easy","A22561","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",1.59065281145221,0.69,1,"logit",1,1.59065281145221,0
+"Opportunity 3","Easy","A96478","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-1.3970900062581,0.68,2,"adjacent logit",-2.15491322588333,-0.639266786632879,NA
+"Opportunity 2","Easy","A98586","Language Arts",4,"3.Grammar","3.Grammar.1","Language Arts_G4",-1.36540221021273,0.86,1,"logit",1,-1.36540221021273,0
+"Opportunity 1","Easy","A32409","Math",3,"3.Geometry","3.Geometry.3","Math_G3",-0.673535843122246,0.81,1,"logit",1,-0.673535843122246,0
+"Opportunity 2","Easy","A71158","Math",3,"4.Measurement","4.Measurement.6","Math_G3",-0.210769683539911,0.85,1,"logit",1,-0.210769683539911,0
+"Opportunity 3","Easy","A70330","Math",3,"2.Algebra","2.Algebra.4","Math_G3",-1.07181176006606,0.55,1,"logit",1,-1.07181176006606,0
+"Opportunity 3","Easy","A82524","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-1.81688221195813,0.84,1,"logit",1,-1.81688221195813,0
+"Opportunity 1","Easy","A72307","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.773234576754422,0.72,1,"logit",1,0.773234576754422,0
+"Opportunity 1","Easy","A14348","Math",3,"2.Algebra","2.Algebra.6","Math_G3",0.192251196291626,0.99,1,"logit",1,0.192251196291626,0
+"Opportunity 2","Easy","A28313","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",-0.972184515616225,0.94,1,"logit",1,-0.972184515616225,0
+"Opportunity 3","Easy","A73166","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",-0.0300872137896917,0.81,1,"logit",1,-0.0300872137896917,0
+"Opportunity 3","Easy","A92975","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-1.91406600943327,0.84,1,"logit",1,-1.91406600943327,0
+"Opportunity 1","Easy","A26717","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",-1.18950312728735,0.65,1,"logit",1,-1.18950312728735,0
+"Opportunity 3","Easy","A88406","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",-0.0997350644957897,0.74,1,"logit",1,-0.0997350644957897,0
+"Opportunity 3","Easy","A27688","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.573634541904702,0.96,1,"logit",1,-0.573634541904702,0
+"Opportunity 3","Easy","A76663","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",0.124423762049711,0.92,1,"logit",1,0.124423762049711,0
+"Opportunity 1","Easy","A72222","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",-0.685087101215473,0.53,1,"logit",1,-0.685087101215473,0
+"Opportunity 1","Easy","A27749","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",-3.65769593663833,0.97,1,"logit",1,-3.65769593663833,0
+"Opportunity 1","Easy","A66731","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-0.586938840880251,0.91,1,"logit",1,-0.586938840880251,0
+"Opportunity 1","Easy","A55078","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",-1.29177587432417,0.96,1,"logit",1,-1.29177587432417,0
+"Opportunity 2","Easy","A50811","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",-0.356135525354599,0.84,1,"logit",1,-0.356135525354599,0
+"Opportunity 3","Easy","A19866","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-1.09736084400572,0.73,1,"logit",1,-1.09736084400572,0
+"Opportunity 2","Easy","A89821","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",-2.73045693588143,0.66,1,"logit",1,-2.73045693588143,0
+"Opportunity 1","Easy","A69723","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",0.401559865642545,0.5,2,"adjacent logit",-0.13524656397771,0.938366295262799,NA
+"Opportunity 2","Easy","A45756","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",0.553783133516283,0.52,1,"logit",1,0.553783133516283,0
+"Opportunity 1","Easy","A88664","Math",3,"4.Measurement","4.Measurement.6","Math_G3",-0.078057459853358,0.52,1,"logit",1,-0.078057459853358,0
+"Opportunity 3","Easy","A81789","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-0.35837950239873,0.94,1,"logit",1,-0.35837950239873,0
+"Opportunity 2","Easy","A52183","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-1.05054452831072,0.95,1,"logit",1,-1.05054452831072,0
+"Opportunity 3","Easy","A25921","Math",3,"4.Measurement","4.Measurement.6","Math_G3",-1.85658994162504,0.61,1,"logit",1,-1.85658994162504,0
+"Opportunity 3","Easy","A25110","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",-0.0520690536412551,0.54,2,"adjacent logit",-2.34240507250359,2.23826696522108,NA
+"Opportunity 2","Easy","A67792","Natural Science",5,"4.Chemistry","4.Chemistry.5","Natural Science_G5",-0.94456650879361,0.94,1,"logit",1,-0.94456650879361,0
+"Opportunity 1","Easy","A96987","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",-0.272276396862208,0.95,2,"adjacent logit",-2.53749752432723,1.99294473060281,NA
+"Opportunity 3","Easy","A29398","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",-0.368453848162409,0.68,1,"logit",1,-0.368453848162409,0
+"Opportunity 3","Easy","A84483","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",-2.25108760826398,0.67,1,"logit",1,-2.25108760826398,0
+"Opportunity 1","Easy","A51122","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-0.616094272028309,0.57,1,"logit",1,-0.616094272028309,0
+"Opportunity 3","Easy","A78919","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",-0.719569825347551,0.89,1,"logit",1,-0.719569825347551,0
+"Opportunity 3","Easy","A60259","Math",3,"2.Algebra","2.Algebra.1","Math_G3",-1.65749313612553,0.68,1,"logit",1,-1.65749313612553,0
+"Opportunity 3","Easy","A67890","Math",3,"2.Algebra","2.Algebra.3","Math_G3",0.126710674304837,0.95,1,"logit",1,0.126710674304837,0
+"Opportunity 1","Easy","A27590","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-0.0386843591060928,0.72,1,"logit",1,-0.0386843591060928,0
+"Opportunity 3","Easy","A42824","Math",3,"2.Algebra","2.Algebra.5","Math_G3",0.0785773012793322,0.76,2,"adjacent logit",-0.709178296648649,0.866332899207314,NA
+"Opportunity 1","Easy","A89120","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",-1.22501833816226,0.67,2,"adjacent logit",-2.66765794316326,0.217621266838742,NA
+"Opportunity 3","Easy","A65943","Math",3,"3.Geometry","3.Geometry.3","Math_G3",-0.338645804328828,0.63,1,"logit",1,-0.338645804328828,0
+"Opportunity 2","Easy","A98218","Math",3,"2.Algebra","2.Algebra.5","Math_G3",0.400876933853565,0.59,1,"logit",1,0.400876933853565,0
+"Opportunity 3","Easy","A76678","Math",3,"2.Algebra","2.Algebra.1","Math_G3",-2.12882927081371,0.82,2,"adjacent logit",-3.78418401527972,-0.473474526347694,NA
+"Opportunity 1","Easy","A49109","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",0.774714467526519,0.83,1,"logit",1,0.774714467526519,0
+"Opportunity 2","Easy","A44228","Math",3,"3.Geometry","3.Geometry.4","Math_G3",-0.393107636234084,0.91,2,"adjacent logit",-1.33541352499748,0.54919825252931,NA
+"Opportunity 3","Easy","A42109","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",-1.04552474287579,0.92,1,"logit",1,-1.04552474287579,0
+"Opportunity 3","Easy","A71926","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-0.421069889705215,0.8,1,"logit",1,-0.421069889705215,0
+"Opportunity 3","Easy","A95065","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-0.00928453956425934,0.83,1,"logit",1,-0.00928453956425934,0
+"Opportunity 1","Easy","A39550","Math",3,"4.Measurement","4.Measurement.2","Math_G3",0.938541407395736,0.86,1,"logit",1,0.938541407395736,0
+"Opportunity 1","Easy","A53319","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",1.19878661210874,0.6,1,"logit",1,1.19878661210874,0
+"Opportunity 1","Easy","A80176","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",-1.45863594726456,0.57,1,"logit",1,-1.45863594726456,0
+"Opportunity 3","Easy","A39408","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",0.0622778244055938,0.57,2,"adjacent logit",-1.04362568050653,1.16818132931772,NA
+"Opportunity 2","Easy","A82803","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.167706975593822,0.52,1,"logit",1,0.167706975593822,0
+"Opportunity 1","Easy","A54598","Math",3,"4.Measurement","4.Measurement.1","Math_G3",0.357765910572471,0.81,1,"logit",1,0.357765910572471,0
+"Opportunity 3","Easy","A55109","Math",3,"2.Algebra","2.Algebra.1","Math_G3",-2.92501751181474,0.75,1,"logit",1,-2.92501751181474,0
+"Opportunity 1","Easy","A35431","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",-1.04589929250208,0.8,2,"adjacent logit",-2.43608208050115,0.344283495496992,NA
+"Opportunity 2","Easy","A87414","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",-1.89777701985549,0.84,1,"logit",1,-1.89777701985549,0
+"Opportunity 3","Easy","A35814","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",-1.63286073467498,0.9,1,"logit",1,-1.63286073467498,0
+"Opportunity 3","Easy","A64590","Language Arts",4,"1.Vocabulary","1.Vocabulary.5","Language Arts_G4",-0.765768072039788,0.94,1,"logit",1,-0.765768072039788,0
+"Opportunity 1","Easy","A95205","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-0.607778831262253,0.66,1,"logit",1,-0.607778831262253,0
+"Opportunity 2","Easy","A47605","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-1.12690658532177,0.58,1,"logit",1,-1.12690658532177,0
+"Opportunity 2","Easy","A24099","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-1.14984779771037,0.63,1,"logit",1,-1.14984779771037,0
+"Opportunity 2","Easy","A61323","Math",3,"2.Algebra","2.Algebra.2","Math_G3",-0.0229557421303771,0.9,1,"logit",1,-0.0229557421303771,0
+"Opportunity 2","Easy","A67620","Math",3,"3.Geometry","3.Geometry.6","Math_G3",-0.793297818701965,0.91,1,"logit",1,-0.793297818701965,0
+"Opportunity 2","Easy","A73349","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",-2.58992328531483,0.57,1,"logit",1,-2.58992328531483,0
+"Opportunity 2","Easy","A36402","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.988255179749739,0.76,1,"logit",1,-0.988255179749739,0
+"Opportunity 1","Easy","A88743","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-0.426972404049233,0.8,1,"logit",1,-0.426972404049233,0
+"Opportunity 1","Easy","A94927","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",-1.44574270217237,0.54,1,"logit",1,-1.44574270217237,0
+"Opportunity 3","Easy","A72310","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-0.832817222696686,0.52,2,"adjacent logit",-3.16232729390728,1.49669284851391,NA
+"Opportunity 3","Easy","A57856","Math",3,"2.Algebra","2.Algebra.5","Math_G3",-1.56352979772895,0.78,2,"adjacent logit",-2.61469917291249,-0.512360422545405,NA
+"Opportunity 3","Easy","A88994","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-0.25918444775908,0.77,1,"logit",1,-0.25918444775908,0
+"Opportunity 2","Easy","A88898","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",-0.615442037268458,0.51,2,"adjacent logit",-3.34743818023214,2.11655410569522,NA
+"Opportunity 2","Easy","A49336","Math",3,"4.Measurement","4.Measurement.6","Math_G3",1.14634554849801,0.7,1,"logit",1,1.14634554849801,0
+"Opportunity 1","Easy","A76470","Math",3,"4.Measurement","4.Measurement.1","Math_G3",-0.445016236224094,0.95,1,"logit",1,-0.445016236224094,0
+"Opportunity 1","Easy","A48417","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.486619051067066,0.79,1,"logit",1,-0.486619051067066,0
+"Opportunity 3","Easy","A19032","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",-0.238106428220303,0.67,1,"logit",1,-0.238106428220303,0
+"Opportunity 2","Easy","A57404","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-0.79916097819427,0.88,1,"logit",1,-0.79916097819427,0
+"Opportunity 3","Easy","A13192","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",-1.74246476420107,0.84,1,"logit",1,-1.74246476420107,0
+"Opportunity 3","Easy","A15454","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",-0.935172516112141,0.72,1,"logit",1,-0.935172516112141,0
+"Opportunity 1","Easy","A33823","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",-1.09450260443464,0.63,2,"adjacent logit",-2.35899110497462,0.16998589610533,NA
+"Opportunity 1","Easy","A55355","Math",3,"2.Algebra","2.Algebra.2","Math_G3",0.268005031927309,0.54,1,"logit",1,0.268005031927309,0
+"Opportunity 3","Easy","A64931","Math",3,"3.Geometry","3.Geometry.4","Math_G3",-0.977959994880995,0.77,1,"logit",1,-0.977959994880995,0
+"Opportunity 1","Easy","A93550","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",-0.78033777020482,0.67,1,"logit",1,-0.78033777020482,0
+"Opportunity 3","Easy","A43703","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",-1.43787135262013,0.59,1,"logit",1,-1.43787135262013,0
+"Opportunity 2","Easy","A33440","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.690627225693318,0.83,1,"logit",1,-0.690627225693318,0
+"Opportunity 2","Easy","A21696","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-1.94524406374874,0.88,1,"logit",1,-1.94524406374874,0
+"Opportunity 1","Easy","A62879","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-0.99799895132963,0.76,1,"logit",1,-0.99799895132963,0
+"Opportunity 3","Easy","A56253","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",-2.04171438197289,0.91,2,"adjacent logit",-3.4359936083297,-0.647435155616082,NA
+"Opportunity 1","Easy","A43917","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",-0.735582784196918,0.56,1,"logit",1,-0.735582784196918,0
+"Opportunity 1","Easy","A45485","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",1.08131492519487,0.7,2,"adjacent logit",-2.68065654236108,4.84328639275081,NA
+"Opportunity 1","Easy","A88759","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-2.05245304446768,0.64,1,"logit",1,-2.05245304446768,0
+"Opportunity 3","Easy","A69666","Math",3,"2.Algebra","2.Algebra.1","Math_G3",1.2603133449197,0.92,1,"logit",1,1.2603133449197,0
+"Opportunity 2","Easy","A50513","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",0.166340980235698,0.61,1,"logit",1,0.166340980235698,0
+"Opportunity 1","Easy","A26102","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",-1.71878296578986,0.92,1,"logit",1,-1.71878296578986,0
+"Opportunity 2","Easy","A16403","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",0.352189478620957,0.5,1,"logit",1,0.352189478620957,0
+"Opportunity 1","Easy","A91013","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",-0.200031332733977,0.79,1,"logit",1,-0.200031332733977,0
+"Opportunity 1","Easy","A69982","Language Arts",4,"3.Grammar","3.Grammar.1","Language Arts_G4",-1.6139329065267,0.51,1,"logit",1,-1.6139329065267,0
+"Opportunity 3","Easy","A11280","Math",3,"2.Algebra","2.Algebra.5","Math_G3",0.853807651732861,0.86,2,"adjacent logit",-0.949843954896304,2.65745925836203,NA
+"Opportunity 1","Easy","A82765","Math",3,"1.Probability","1.Probability.4","Math_G3",-1.34514575031601,0.7,2,"adjacent logit",-3.12857418745146,0.438282686819444,NA
+"Opportunity 1","Easy","A94422","Math",3,"2.Algebra","2.Algebra.4","Math_G3",-1.00256332493852,0.74,1,"logit",1,-1.00256332493852,0
+"Opportunity 1","Easy","A58697","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",0.0354798135730392,0.86,1,"logit",1,0.0354798135730392,0
+"Opportunity 2","Easy","A45173","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",-0.441879388409321,0.77,1,"logit",1,-0.441879388409321,0
+"Opportunity 3","Easy","A78336","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",-0.668398713547263,0.54,1,"logit",1,-0.668398713547263,0
+"Opportunity 1","Easy","A59170","Language Arts",4,"1.Vocabulary","1.Vocabulary.5","Language Arts_G4",-0.393631353410925,0.87,1,"logit",1,-0.393631353410925,0
+"Opportunity 1","Easy","A61766","Math",3,"3.Geometry","3.Geometry.5","Math_G3",-1.96445013374692,0.71,1,"logit",1,-1.96445013374692,0
+"Opportunity 2","Easy","A94184","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",-1.97831921699172,0.69,1,"logit",1,-1.97831921699172,0
+"Opportunity 2","Easy","A73814","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-0.48972602748563,0.97,1,"logit",1,-0.48972602748563,0
+"Opportunity 3","Easy","A98420","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",-1.65382086896358,0.51,1,"logit",1,-1.65382086896358,0
+"Opportunity 3","Easy","A28774","Math",3,"1.Probability","1.Probability.4","Math_G3",-1.44716439584598,0.76,1,"logit",1,-1.44716439584598,0
+"Opportunity 3","Easy","A88763","Math",3,"2.Algebra","2.Algebra.4","Math_G3",1.13110446112912,0.76,2,"adjacent logit",-2.92247802458215,5.18468694684038,NA
+"Opportunity 1","Easy","A34049","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",0.571905526348221,0.91,2,"adjacent logit",-2.28167931475506,3.42549036745151,NA
+"Opportunity 2","Easy","A92517","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-2.03787089498767,0.64,2,"adjacent logit",-3.59312211744858,-0.482619672526763,NA
+"Opportunity 3","Easy","A43894","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-1.40328850360792,0.66,1,"logit",1,-1.40328850360792,0
+"Opportunity 3","Easy","A12090","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",-0.220260196133648,0.88,2,"adjacent logit",-3.08718433265287,2.64666394038557,NA
+"Opportunity 2","Easy","A61493","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",-1.01662115267581,0.7,1,"logit",1,-1.01662115267581,0
+"Opportunity 3","Easy","A23272","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-2.40128823996885,0.85,1,"logit",1,-2.40128823996885,0
+"Opportunity 1","Easy","A92386","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-1.39507646473,0.91,1,"logit",1,-1.39507646473,0
+"Opportunity 2","Easy","A92040","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.985211382983562,0.62,1,"logit",1,-0.985211382983562,0
+"Opportunity 3","Easy","A31589","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",-2.22842326599627,0.57,1,"logit",1,-2.22842326599627,0
+"Opportunity 2","Easy","A28475","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",-2.45457634162669,0.63,1,"logit",1,-2.45457634162669,0
+"Opportunity 1","Easy","A12197","Math",3,"1.Probability","1.Probability.1","Math_G3",-0.467796732426513,0.68,2,"adjacent logit",-2.54997972909432,1.6143862642413,NA
+"Opportunity 1","Easy","A92792","Math",3,"3.Geometry","3.Geometry.2","Math_G3",0.294146591295098,0.95,1,"logit",1,0.294146591295098,0
+"Opportunity 1","Easy","A77678","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",-0.564948190997662,0.71,1,"logit",1,-0.564948190997662,0
+"Opportunity 1","Easy","A14319","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",-1.55742978338579,0.66,1,"logit",1,-1.55742978338579,0
+"Opportunity 3","Easy","A61368","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",-1.84819590855096,0.53,1,"logit",1,-1.84819590855096,0
+"Opportunity 3","Easy","A10976","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-2.21956028349483,0.63,1,"logit",1,-2.21956028349483,0
+"Opportunity 3","Easy","A81041","Math",3,"3.Geometry","3.Geometry.5","Math_G3",-0.744003797583159,0.8,2,"adjacent logit",-1.65551844364305,0.167510848476735,NA
+"Opportunity 3","Easy","A35122","Math",3,"3.Geometry","3.Geometry.2","Math_G3",-0.629216266810917,0.66,1,"logit",1,-0.629216266810917,0
+"Opportunity 1","Easy","A79357","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",0.0649323649271302,0.92,1,"logit",1,0.0649323649271302,0
+"Opportunity 3","Easy","A54907","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",-0.971033306968446,0.78,1,"logit",1,-0.971033306968446,0
+"Opportunity 1","Easy","A60735","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-1.82724493641848,0.9,1,"logit",1,-1.82724493641848,0
+"Opportunity 1","Easy","A39192","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-1.95938272698367,0.77,1,"logit",1,-1.95938272698367,0
+"Opportunity 2","Easy","A58027","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",0.224739511257509,0.62,1,"logit",1,0.224739511257509,0
+"Opportunity 3","Easy","A21881","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-0.9936902990717,0.74,1,"logit",1,-0.9936902990717,0
+"Opportunity 1","Easy","A14553","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",-0.484862477737988,0.72,1,"logit",1,-0.484862477737988,0
+"Opportunity 1","Easy","A83509","Math",3,"2.Algebra","2.Algebra.3","Math_G3",-1.36265570592263,0.78,1,"logit",1,-1.36265570592263,0
+"Opportunity 2","Easy","A44418","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-1.55734039719691,0.53,1,"logit",1,-1.55734039719691,0
+"Opportunity 2","Easy","A10794","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-1.10189811935363,0.5,1,"logit",1,-1.10189811935363,0
+"Opportunity 3","Easy","A15187","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",-2.28795301823979,0.64,1,"logit",1,-2.28795301823979,0
+"Opportunity 3","Easy","A34043","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-1.4579884947173,0.7,1,"logit",1,-1.4579884947173,0
+"Opportunity 2","Easy","A47831","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",1.06602453983874,0.52,1,"logit",1,1.06602453983874,0
+"Opportunity 1","Easy","A38351","Math",3,"1.Probability","1.Probability.1","Math_G3",-1.60589290148249,0.72,1,"logit",1,-1.60589290148249,0
+"Opportunity 3","Easy","A74177","Math",3,"4.Measurement","4.Measurement.5","Math_G3",-0.467755829048676,0.92,1,"logit",1,-0.467755829048676,0
+"Opportunity 3","Easy","A13827","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",-0.255861258125249,0.55,2,"adjacent logit",-1.13136621721576,0.619643700965258,NA
+"Opportunity 2","Easy","A78120","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",-1.19800511742275,0.52,1,"logit",1,-1.19800511742275,0
+"Opportunity 1","Easy","A66741","Math",3,"1.Probability","1.Probability.3","Math_G3",-2.1679538534454,0.54,2,"adjacent logit",-3.64243693032295,-0.693470776567852,NA
+"Opportunity 3","Easy","A93181","Math",3,"1.Probability","1.Probability.1","Math_G3",-0.154021364623055,0.74,2,"adjacent logit",-0.610790690952573,0.302747961706463,NA
+"Opportunity 3","Easy","A66757","Language Arts",4,"3.Grammar","3.Grammar.1","Language Arts_G4",-1.88663644121555,0.56,1,"logit",1,-1.88663644121555,0
+"Opportunity 1","Easy","A15640","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",-0.464601193207874,0.51,1,"logit",1,-0.464601193207874,0
+"Opportunity 1","Easy","A83482","Math",3,"3.Geometry","3.Geometry.1","Math_G3",-0.647947449358779,0.8,1,"logit",1,-0.647947449358779,0
+"Opportunity 3","Medium","A64777","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-0.836718526411497,0.59,1,"logit",1,-0.836718526411497,0
+"Opportunity 1","Medium","A85967","Math",3,"4.Measurement","4.Measurement.2","Math_G3",0.894249617244389,0.41,1,"logit",1,0.894249617244389,0
+"Opportunity 3","Medium","A51806","Math",3,"2.Algebra","2.Algebra.2","Math_G3",-1.01100528216132,0.42,1,"logit",1,-1.01100528216132,0
+"Opportunity 2","Medium","A33530","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",0.869143262603703,0.75,1,"logit",1,0.869143262603703,0
+"Opportunity 3","Medium","A34296","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",0.756917948327901,0.62,1,"logit",1,0.756917948327901,0
+"Opportunity 2","Medium","A27772","Math",3,"3.Geometry","3.Geometry.1","Math_G3",-0.626672885663189,0.59,1,"logit",1,-0.626672885663189,0
+"Opportunity 3","Medium","A27482","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.38484581990023,0.36,1,"logit",1,-0.38484581990023,0
+"Opportunity 2","Medium","A11044","Natural Science",5,"4.Chemistry","4.Chemistry.2","Natural Science_G5",0.428250084531233,0.75,1,"logit",1,0.428250084531233,0
+"Opportunity 2","Medium","A78184","Math",3,"1.Probability","1.Probability.2","Math_G3",-0.829256399515294,0.72,1,"logit",1,-0.829256399515294,0
+"Opportunity 3","Medium","A91464","Math",3,"4.Measurement","4.Measurement.1","Math_G3",0.121977103243264,0.39,1,"logit",1,0.121977103243264,0
+"Opportunity 3","Medium","A49152","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",0.0549992477443768,0.61,1,"logit",1,0.0549992477443768,0
+"Opportunity 1","Medium","A51436","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-1.87903599312572,0.76,1,"logit",1,-1.87903599312572,0
+"Opportunity 3","Medium","A60564","Math",3,"3.Geometry","3.Geometry.4","Math_G3",-0.476018995052757,0.35,1,"logit",1,-0.476018995052757,0
+"Opportunity 3","Medium","A49362","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",-0.386668726459,0.47,1,"logit",1,-0.386668726459,0
+"Opportunity 2","Medium","A68730","Language Arts",4,"1.Vocabulary","1.Vocabulary.5","Language Arts_G4",-0.691138811226813,0.79,1,"logit",1,-0.691138811226813,0
+"Opportunity 2","Medium","A61173","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",-2.99276322161695,0.57,2,"adjacent logit",-3.18044329794323,-2.80508314529068,NA
+"Opportunity 1","Medium","A28880","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",-0.119430402916142,0.63,2,"adjacent logit",-2.51692717053436,2.27806636470208,NA
+"Opportunity 2","Medium","A38554","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",1.28157128819235,0.51,1,"logit",1,1.28157128819235,0
+"Opportunity 1","Medium","A10527","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",0.100263065357801,0.39,1,"logit",1,0.100263065357801,0
+"Opportunity 3","Medium","A20461","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",-0.00736023206079293,0.59,2,"adjacent logit",-0.221366641085324,0.206646176963738,NA
+"Opportunity 1","Medium","A64985","Math",3,"4.Measurement","4.Measurement.2","Math_G3",1.52807131854292,0.64,2,"adjacent logit",-2.08909790952891,5.14524054661474,NA
+"Opportunity 3","Medium","A66742","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",0.0254226664578778,0.78,1,"logit",1,0.0254226664578778,0
+"Opportunity 2","Medium","A49982","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-0.225040405551355,0.41,1,"logit",1,-0.225040405551355,0
+"Opportunity 1","Medium","A13302","Math",3,"4.Measurement","4.Measurement.6","Math_G3",0.73431556611422,0.5,1,"logit",1,0.73431556611422,0
+"Opportunity 3","Medium","A14191","Math",3,"3.Geometry","3.Geometry.5","Math_G3",1.1893651035165,0.32,1,"logit",1,1.1893651035165,0
+"Opportunity 1","Medium","A99400","Math",3,"3.Geometry","3.Geometry.3","Math_G3",0.22782887101629,0.54,1,"logit",1,0.22782887101629,0
+"Opportunity 3","Medium","A84963","Math",3,"1.Probability","1.Probability.3","Math_G3",0.030728580143716,0.51,2,"adjacent logit",-2.01036712081303,2.07182428110046,NA
+"Opportunity 2","Medium","A12314","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",-0.160831895624061,0.44,1,"logit",1,-0.160831895624061,0
+"Opportunity 1","Medium","A71991","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",0.856691163160101,0.37,1,"logit",1,0.856691163160101,0
+"Opportunity 3","Medium","A72381","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",-0.977995634554044,0.41,2,"adjacent logit",-2.3955098946491,0.439518625541008,NA
+"Opportunity 1","Medium","A60966","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",0.283964131460074,0.49,1,"logit",1,0.283964131460074,0
+"Opportunity 2","Medium","A99912","Math",3,"2.Algebra","2.Algebra.4","Math_G3",0.582886290520674,0.65,1,"logit",1,0.582886290520674,0
+"Opportunity 2","Medium","A69402","Math",3,"1.Probability","1.Probability.5","Math_G3",-1.95378267737313,0.6,1,"logit",1,-1.95378267737313,0
+"Opportunity 3","Medium","A74289","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",-2.04078817025115,0.51,2,"adjacent logit",-2.84659969861367,-1.23497664188863,NA
+"Opportunity 3","Medium","A33127","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",0.532205763476137,0.75,1,"logit",1,0.532205763476137,0
+"Opportunity 3","Medium","A58031","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.316511008023883,0.67,1,"logit",1,0.316511008023883,0
+"Opportunity 1","Medium","A86974","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",-0.975621284193582,0.75,1,"logit",1,-0.975621284193582,0
+"Opportunity 1","Medium","A39598","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-0.30697685382072,0.61,1,"logit",1,-0.30697685382072,0
+"Opportunity 1","Medium","A67086","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",1.58983570313293,0.55,1,"logit",1,1.58983570313293,0
+"Opportunity 2","Medium","A21621","Math",3,"3.Geometry","3.Geometry.1","Math_G3",1.51604470765607,0.45,2,"adjacent logit",-2.28357778486706,5.31566720017921,NA
+"Opportunity 2","Medium","A71527","Math",3,"4.Measurement","4.Measurement.1","Math_G3",-0.914631741047854,0.33,1,"logit",1,-0.914631741047854,0
+"Opportunity 3","Medium","A68793","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",0.803922046511155,0.63,1,"logit",1,0.803922046511155,0
+"Opportunity 3","Medium","A90347","Math",3,"4.Measurement","4.Measurement.3","Math_G3",0.834811770347343,0.78,1,"logit",1,0.834811770347343,0
+"Opportunity 1","Medium","A32344","Math",3,"4.Measurement","4.Measurement.2","Math_G3",0.307130869874062,0.53,1,"logit",1,0.307130869874062,0
+"Opportunity 1","Medium","A79289","Math",3,"4.Measurement","4.Measurement.6","Math_G3",-0.362021423493325,0.5,1,"logit",1,-0.362021423493325,0
+"Opportunity 1","Medium","A35209","Language Arts",4,"3.Grammar","3.Grammar.2","Language Arts_G4",0.199440295696457,0.79,1,"logit",1,0.199440295696457,0
+"Opportunity 3","Medium","A55300","Math",3,"3.Geometry","3.Geometry.6","Math_G3",-0.665068326496425,0.64,2,"adjacent logit",-2.0967104948818,0.766573841888951,NA
+"Opportunity 2","Medium","A20815","Math",3,"3.Geometry","3.Geometry.1","Math_G3",0.964780541034614,0.59,1,"logit",1,0.964780541034614,0
+"Opportunity 3","Medium","A15427","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",0.850875642419922,0.49,1,"logit",1,0.850875642419922,0
+"Opportunity 3","Medium","A74094","Math",3,"2.Algebra","2.Algebra.1","Math_G3",0.17635024129097,0.42,1,"logit",1,0.17635024129097,0
+"Opportunity 1","Medium","A83861","Math",3,"2.Algebra","2.Algebra.4","Math_G3",1.11484350227688,0.7,1,"logit",1,1.11484350227688,0
+"Opportunity 1","Medium","A22840","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",1.46749657414543,0.49,2,"adjacent logit",-1.2076342701879,4.14262741847876,NA
+"Opportunity 2","Medium","A81289","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",1.37871232856977,0.31,1,"logit",1,1.37871232856977,0
+"Opportunity 3","Medium","A41715","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",1.55169969475746,0.38,1,"logit",1,1.55169969475746,0
+"Opportunity 1","Medium","A85734","Math",3,"1.Probability","1.Probability.3","Math_G3",0.113657132461863,0.75,1,"logit",1,0.113657132461863,0
+"Opportunity 2","Medium","A38353","Math",3,"2.Algebra","2.Algebra.3","Math_G3",0.783196004837194,0.67,2,"adjacent logit",0.142090291840251,1.42430171783414,NA
+"Opportunity 1","Medium","A59730","Math",3,"2.Algebra","2.Algebra.2","Math_G3",0.799481984325645,0.8,1,"logit",1,0.799481984325645,0
+"Opportunity 1","Medium","A10179","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",0.128401918659507,0.46,1,"logit",1,0.128401918659507,0
+"Opportunity 2","Medium","A95979","Math",3,"4.Measurement","4.Measurement.4","Math_G3",1.62002270630489,0.3,1,"logit",1,1.62002270630489,0
+"Opportunity 1","Medium","A12017","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",1.36546881804453,0.66,2,"adjacent logit",-0.901005655249231,3.63194329133829,NA
+"Opportunity 1","Medium","A72972","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",-0.0297334598753626,0.73,1,"logit",1,-0.0297334598753626,0
+"Opportunity 2","Medium","A33478","Math",3,"3.Geometry","3.Geometry.3","Math_G3",-0.331748628916585,0.66,1,"logit",1,-0.331748628916585,0
+"Opportunity 3","Medium","A67654","Math",3,"1.Probability","1.Probability.4","Math_G3",0.281166625538966,0.41,2,"adjacent logit",-3.8640416183183,4.42637486939623,NA
+"Opportunity 1","Medium","A97877","Math",3,"3.Geometry","3.Geometry.3","Math_G3",0.102037804772676,0.61,1,"logit",1,0.102037804772676,0
+"Opportunity 2","Medium","A20745","Math",3,"4.Measurement","4.Measurement.6","Math_G3",-1.08214672076491,0.67,1,"logit",1,-1.08214672076491,0
+"Opportunity 3","Medium","A25990","Math",3,"1.Probability","1.Probability.5","Math_G3",-0.336832012450293,0.52,1,"logit",1,-0.336832012450293,0
+"Opportunity 2","Medium","A18806","Math",3,"1.Probability","1.Probability.2","Math_G3",-2.11925232936531,0.68,1,"logit",1,-2.11925232936531,0
+"Opportunity 3","Medium","A55385","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",0.657560619089558,0.51,1,"logit",1,0.657560619089558,0
+"Opportunity 2","Medium","A92441","Math",3,"2.Algebra","2.Algebra.3","Math_G3",0.912368837105052,0.58,1,"logit",1,0.912368837105052,0
+"Opportunity 3","Medium","A76827","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.71697633206954,0.36,1,"logit",1,0.71697633206954,0
+"Opportunity 2","Medium","A42895","Math",3,"3.Geometry","3.Geometry.1","Math_G3",-0.0241378454267903,0.55,1,"logit",1,-0.0241378454267903,0
+"Opportunity 2","Medium","A75679","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.544368502652426,0.63,1,"logit",1,-0.544368502652426,0
+"Opportunity 1","Medium","A74369","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",0.682827410277437,0.31,2,"adjacent logit",-1.87537127309733,3.2410260936522,NA
+"Opportunity 1","Medium","A37748","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",-0.714967651371754,0.7,1,"logit",1,-0.714967651371754,0
+"Opportunity 1","Medium","A40474","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.259836327086777,0.32,1,"logit",1,0.259836327086777,0
+"Opportunity 2","Medium","A41944","Math",3,"4.Measurement","4.Measurement.4","Math_G3",0.623459712019804,0.67,2,"adjacent logit",-1.43599948129358,2.68291890533319,NA
+"Opportunity 2","Medium","A85394","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",0.349033735038849,0.67,1,"logit",1,0.349033735038849,0
+"Opportunity 3","Medium","A28159","Math",3,"1.Probability","1.Probability.1","Math_G3",2.44156951402209,0.68,1,"logit",1,2.44156951402209,0
+"Opportunity 2","Medium","A44491","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",-0.993744585467978,0.46,1,"logit",1,-0.993744585467978,0
+"Opportunity 1","Medium","A13998","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",-0.138432597287057,0.61,2,"adjacent logit",-2.48550683957692,2.2086416450028,NA
+"Opportunity 1","Medium","A56190","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",-0.843846288234105,0.58,1,"logit",1,-0.843846288234105,0
+"Opportunity 2","Medium","A67563","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.161904647356338,0.45,1,"logit",1,0.161904647356338,0
+"Opportunity 2","Medium","A58966","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.648710442376204,0.75,1,"logit",1,0.648710442376204,0
+"Opportunity 1","Medium","A26421","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.487414358568166,0.63,1,"logit",1,-0.487414358568166,0
+"Opportunity 1","Medium","A40019","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",0.541902490577719,0.74,1,"logit",1,0.541902490577719,0
+"Opportunity 2","Medium","A95801","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",0.776460200944987,0.33,2,"adjacent logit",-2.68217934585264,4.23509974774261,NA
+"Opportunity 1","Medium","A85379","Language Arts",4,"3.Grammar","3.Grammar.2","Language Arts_G4",-0.639596364636643,0.76,1,"logit",1,-0.639596364636643,0
+"Opportunity 3","Medium","A58728","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",0.404452515089654,0.52,1,"logit",1,0.404452515089654,0
+"Opportunity 1","Medium","A70076","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",0.200027854131136,0.58,1,"logit",1,0.200027854131136,0
+"Opportunity 1","Medium","A57940","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.732688882300093,0.47,1,"logit",1,0.732688882300093,0
+"Opportunity 2","Medium","A96014","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",-1.13456940909947,0.68,2,"adjacent logit",-1.66247356791555,-0.606665250283392,NA
+"Opportunity 2","Medium","A92629","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",2.29177385150894,0.53,1,"logit",1,2.29177385150894,0
+"Opportunity 3","Medium","A82302","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.638250079198779,0.61,1,"logit",1,-0.638250079198779,0
+"Opportunity 2","Medium","A85709","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",1.32308266586076,0.69,1,"logit",1,1.32308266586076,0
+"Opportunity 1","Medium","A50253","Math",3,"1.Probability","1.Probability.5","Math_G3",-1.55715230199389,0.68,1,"logit",1,-1.55715230199389,0
+"Opportunity 1","Medium","A71770","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",-0.719671264692932,0.46,1,"logit",1,-0.719671264692932,0
+"Opportunity 2","Medium","A42286","Math",3,"1.Probability","1.Probability.4","Math_G3",0.533317966952504,0.45,1,"logit",1,0.533317966952504,0
+"Opportunity 1","Medium","A69120","Math",3,"3.Geometry","3.Geometry.4","Math_G3",-0.72275196902866,0.59,1,"logit",1,-0.72275196902866,0
+"Opportunity 2","Medium","A58479","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-0.126136965230014,0.59,1,"logit",1,-0.126136965230014,0
+"Opportunity 1","Medium","A92520","Math",3,"3.Geometry","3.Geometry.1","Math_G3",0.982435633679992,0.78,2,"adjacent logit",-1.16475077024609,3.12962203760607,NA
+"Opportunity 2","Medium","A81326","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",1.09689057533351,0.5,2,"adjacent logit",-3.86604944296869,6.05983059363572,NA
+"Opportunity 1","Medium","A69748","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",0.394530447048748,0.45,1,"logit",1,0.394530447048748,0
+"Opportunity 1","Medium","A92721","Math",3,"3.Geometry","3.Geometry.2","Math_G3",-1.11759542748101,0.74,2,"adjacent logit",-2.43577370966178,0.20058285469976,NA
+"Opportunity 2","Medium","A28788","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-2.19796561175605,0.36,1,"logit",1,-2.19796561175605,0
+"Opportunity 2","Medium","A64766","Math",3,"2.Algebra","2.Algebra.5","Math_G3",-0.347742568705698,0.69,1,"logit",1,-0.347742568705698,0
+"Opportunity 3","Medium","A90633","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-1.69546235401116,0.65,1,"logit",1,-1.69546235401116,0
+"Opportunity 2","Medium","A99277","Math",3,"3.Geometry","3.Geometry.4","Math_G3",-0.301321388961843,0.68,1,"logit",1,-0.301321388961843,0
+"Opportunity 3","Medium","A17848","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",0.378469228082206,0.74,1,"logit",1,0.378469228082206,0
+"Opportunity 2","Medium","A61801","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",-0.499662169481439,0.55,1,"logit",1,-0.499662169481439,0
+"Opportunity 1","Medium","A47204","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-1.257885730633,0.74,1,"logit",1,-1.257885730633,0
+"Opportunity 3","Medium","A61461","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.622279593173569,0.36,1,"logit",1,-0.622279593173569,0
+"Opportunity 3","Medium","A82043","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",-1.03449115699426,0.64,2,"adjacent logit",-2.91468266349588,0.845700349507362,NA
+"Opportunity 1","Medium","A57331","Math",3,"3.Geometry","3.Geometry.5","Math_G3",0.339024809648704,0.58,1,"logit",1,0.339024809648704,0
+"Opportunity 2","Medium","A91659","Math",3,"1.Probability","1.Probability.6","Math_G3",0.146898636781639,0.59,1,"logit",1,0.146898636781639,0
+"Opportunity 2","Medium","A92341","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",0.0705466918460111,0.71,1,"logit",1,0.0705466918460111,0
+"Opportunity 3","Medium","A31299","Math",3,"4.Measurement","4.Measurement.4","Math_G3",0.0563892365412758,0.49,1,"logit",1,0.0563892365412758,0
+"Opportunity 2","Medium","A36570","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",1.23298799333186,0.47,2,"adjacent logit",0.0768580354005497,2.38911795126318,NA
+"Opportunity 1","Medium","A49349","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.200443785240892,0.43,1,"logit",1,0.200443785240892,0
+"Opportunity 3","Medium","A23661","Math",3,"4.Measurement","4.Measurement.3","Math_G3",-1.08213607588547,0.6,1,"logit",1,-1.08213607588547,0
+"Opportunity 3","Medium","A12345","Math",3,"3.Geometry","3.Geometry.1","Math_G3",-0.91240858076245,0.58,1,"logit",1,-0.91240858076245,0
+"Opportunity 2","Medium","A32777","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",-1.05530193567531,0.45,1,"logit",1,-1.05530193567531,0
+"Opportunity 2","Medium","A32406","Math",3,"3.Geometry","3.Geometry.1","Math_G3",-0.617797617080752,0.46,1,"logit",1,-0.617797617080752,0
+"Opportunity 1","Medium","A36311","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",0.840709614676582,0.55,1,"logit",1,0.840709614676582,0
+"Opportunity 2","Medium","A53301","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",0.190752665041471,0.47,1,"logit",1,0.190752665041471,0
+"Opportunity 2","Medium","A93512","Math",3,"3.Geometry","3.Geometry.1","Math_G3",-1.27211117291757,0.44,2,"adjacent logit",-1.33931267839111,-1.20490966744403,NA
+"Opportunity 3","Medium","A55185","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",1.79667731320375,0.3,1,"logit",1,1.79667731320375,0
+"Opportunity 1","Medium","A45422","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",0.409062625463962,0.56,1,"logit",1,0.409062625463962,0
+"Opportunity 2","Medium","A68151","Math",3,"1.Probability","1.Probability.6","Math_G3",0.485216284148426,0.79,1,"logit",1,0.485216284148426,0
+"Opportunity 2","Medium","A92041","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",0.529830759515499,0.55,1,"logit",1,0.529830759515499,0
+"Opportunity 1","Medium","A87590","Math",3,"2.Algebra","2.Algebra.5","Math_G3",1.09103410601974,0.75,2,"adjacent logit",-0.734238057455079,2.91630626949455,NA
+"Opportunity 1","Medium","A21837","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",0.547326641752432,0.3,2,"adjacent logit",-1.66915417550445,2.76380745900931,NA
+"Opportunity 2","Medium","A47162","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",-1.80164876711097,0.59,1,"logit",1,-1.80164876711097,0
+"Opportunity 2","Medium","A77066","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-1.2822143911541,0.6,1,"logit",1,-1.2822143911541,0
+"Opportunity 3","Medium","A92476","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",0.995198811803293,0.78,2,"adjacent logit",-0.916241945206171,2.90663956881276,NA
+"Opportunity 3","Medium","A33295","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.34760275200517,0.3,1,"logit",1,-0.34760275200517,0
+"Opportunity 1","Medium","A43395","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",0.569079479914218,0.37,1,"logit",1,0.569079479914218,0
+"Opportunity 3","Medium","A33242","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",0.488905509499353,0.44,1,"logit",1,0.488905509499353,0
+"Opportunity 3","Medium","A85822","Math",3,"2.Algebra","2.Algebra.1","Math_G3",-1.25066419582755,0.42,1,"logit",1,-1.25066419582755,0
+"Opportunity 2","Medium","A74743","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",1.30254028500884,0.47,1,"logit",1,1.30254028500884,0
+"Opportunity 2","Medium","A64470","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",-0.328860662795328,0.49,1,"logit",1,-0.328860662795328,0
+"Opportunity 3","Medium","A33042","Natural Science",5,"4.Chemistry","4.Chemistry.2","Natural Science_G5",-0.0291584442766078,0.48,1,"logit",1,-0.0291584442766078,0
+"Opportunity 2","Medium","A53481","Math",3,"1.Probability","1.Probability.6","Math_G3",-1.03304136325474,0.33,1,"logit",1,-1.03304136325474,0
+"Opportunity 1","Medium","A65790","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",1.95009108906374,0.49,1,"logit",1,1.95009108906374,0
+"Opportunity 3","Medium","A83280","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",0.381443256487457,0.54,1,"logit",1,0.381443256487457,0
+"Opportunity 3","Medium","A99737","Math",3,"3.Geometry","3.Geometry.4","Math_G3",0.554234648391016,0.63,2,"adjacent logit",-1.01867619707153,2.12714549385356,NA
+"Opportunity 2","Medium","A87154","Math",3,"1.Probability","1.Probability.6","Math_G3",0.0367254124992517,0.7,1,"logit",1,0.0367254124992517,0
+"Opportunity 2","Medium","A66998","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",1.01998534562587,0.51,1,"logit",1,1.01998534562587,0
+"Opportunity 3","Medium","A36738","Math",3,"3.Geometry","3.Geometry.2","Math_G3",-1.10735214058909,0.52,1,"logit",1,-1.10735214058909,0
+"Opportunity 2","Medium","A25356","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",1.22365060151836,0.69,1,"logit",1,1.22365060151836,0
+"Opportunity 2","Medium","A34566","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-1.02060072489498,0.53,1,"logit",1,-1.02060072489498,0
+"Opportunity 2","Medium","A63292","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",1.16017041539159,0.52,1,"logit",1,1.16017041539159,0
+"Opportunity 1","Medium","A77874","Math",3,"1.Probability","1.Probability.1","Math_G3",-0.7335425696813,0.36,1,"logit",1,-0.7335425696813,0
+"Opportunity 3","Medium","A38879","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",0.887522863807898,0.53,1,"logit",1,0.887522863807898,0
+"Opportunity 1","Medium","A40623","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",0.600219370388411,0.42,1,"logit",1,0.600219370388411,0
+"Opportunity 3","Medium","A19462","Language Arts",4,"3.Grammar","3.Grammar.2","Language Arts_G4",1.44426462399364,0.6,1,"logit",1,1.44426462399364,0
+"Opportunity 2","Medium","A97846","Math",3,"4.Measurement","4.Measurement.3","Math_G3",-1.24230109711657,0.79,2,"adjacent logit",-2.68855360704807,0.203951412814937,NA
+"Opportunity 3","Medium","A90259","Math",3,"1.Probability","1.Probability.5","Math_G3",-1.123431045943,0.43,2,"adjacent logit",-3.43430326605386,1.18744117416786,NA
+"Opportunity 2","Medium","A96714","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",0.872206524459033,0.54,1,"logit",1,0.872206524459033,0
+"Opportunity 1","Medium","A76552","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",1.4091724361807,0.73,1,"logit",1,1.4091724361807,0
+"Opportunity 1","Medium","A47057","Math",3,"1.Probability","1.Probability.5","Math_G3",1.6859209969719,0.45,1,"logit",1,1.6859209969719,0
+"Opportunity 2","Medium","A30750","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",1.74726058262125,0.31,2,"adjacent logit",-0.270703302013078,3.76522446725558,NA
+"Opportunity 1","Medium","A15835","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.726399430913461,0.74,1,"logit",1,-0.726399430913461,0
+"Opportunity 3","Medium","A43829","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.365504871932317,0.35,1,"logit",1,0.365504871932317,0
+"Opportunity 3","Medium","A75676","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",0.0915345997039365,0.53,1,"logit",1,0.0915345997039365,0
+"Opportunity 2","Medium","A16157","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",0.705937688224702,0.4,1,"logit",1,0.705937688224702,0
+"Opportunity 2","Medium","A16395","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-2.42213194881108,0.38,1,"logit",1,-2.42213194881108,0
+"Opportunity 2","Medium","A36732","Math",3,"2.Algebra","2.Algebra.5","Math_G3",-0.712245385104293,0.45,1,"logit",1,-0.712245385104293,0
+"Opportunity 3","Medium","A49038","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",0.330563724072851,0.78,1,"logit",1,0.330563724072851,0
+"Opportunity 3","Medium","A50946","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",0.74698391854699,0.48,1,"logit",1,0.74698391854699,0
+"Opportunity 1","Medium","A19195","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",-0.624254493827447,0.71,2,"adjacent logit",-3.39554049596435,2.14703150830946,NA
+"Opportunity 1","Medium","A12545","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",1.11008527134542,0.76,1,"logit",1,1.11008527134542,0
+"Opportunity 3","Medium","A28448","Math",3,"2.Algebra","2.Algebra.2","Math_G3",-0.413884641165967,0.7,2,"adjacent logit",-3.34050643259716,2.51273715026523,NA
+"Opportunity 1","Medium","A67105","Math",3,"3.Geometry","3.Geometry.1","Math_G3",-2.14716120571049,0.5,1,"logit",1,-2.14716120571049,0
+"Opportunity 2","Medium","A95153","Language Arts",4,"3.Grammar","3.Grammar.1","Language Arts_G4",-1.11246696376673,0.58,1,"logit",1,-1.11246696376673,0
+"Opportunity 1","Medium","A39807","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.892558254805654,0.79,1,"logit",1,-0.892558254805654,0
+"Opportunity 3","Medium","A63639","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.383992426047052,0.77,1,"logit",1,-0.383992426047052,0
+"Opportunity 1","Medium","A74634","Math",3,"3.Geometry","3.Geometry.2","Math_G3",0.385102905073159,0.8,1,"logit",1,0.385102905073159,0
+"Opportunity 2","Medium","A74090","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",-0.460988633639027,0.3,1,"logit",1,-0.460988633639027,0
+"Opportunity 2","Medium","A61723","Natural Science",5,"4.Chemistry","4.Chemistry.5","Natural Science_G5",0.189295004019595,0.67,1,"logit",1,0.189295004019595,0
+"Opportunity 1","Medium","A34738","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-0.0511105935168405,0.4,1,"logit",1,-0.0511105935168405,0
+"Opportunity 2","Medium","A38047","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",0.212512266508684,0.5,1,"logit",1,0.212512266508684,0
+"Opportunity 2","Medium","A23488","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",-0.380775445586991,0.8,2,"adjacent logit",-2.7161538472835,1.95460295610952,NA
+"Opportunity 1","Medium","A46174","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.888533371537142,0.78,1,"logit",1,-0.888533371537142,0
+"Opportunity 2","Medium","A17211","Math",3,"4.Measurement","4.Measurement.6","Math_G3",1.81270346487375,0.7,1,"logit",1,1.81270346487375,0
+"Opportunity 2","Medium","A78957","Math",3,"1.Probability","1.Probability.5","Math_G3",1.54856542564803,0.53,2,"adjacent logit",0.900998966792381,2.19613188450367,NA
+"Opportunity 1","Medium","A60075","Language Arts",4,"3.Grammar","3.Grammar.2","Language Arts_G4",0.198286437081227,0.71,1,"logit",1,0.198286437081227,0
+"Opportunity 3","Medium","A84340","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",0.903171161241893,0.62,1,"logit",1,0.903171161241893,0
+"Opportunity 1","Medium","A94738","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",-1.3153873403781,0.42,1,"logit",1,-1.3153873403781,0
+"Opportunity 3","Medium","A15556","Math",3,"4.Measurement","4.Measurement.1","Math_G3",0.502773873325033,0.66,1,"logit",1,0.502773873325033,0
+"Opportunity 2","Medium","A37359","Math",3,"2.Algebra","2.Algebra.6","Math_G3",0.262676565909324,0.39,2,"adjacent logit",-2.99869897660574,3.52405210842439,NA
+"Opportunity 2","Medium","A66416","Math",3,"3.Geometry","3.Geometry.2","Math_G3",0.414261371985433,0.61,2,"adjacent logit",0.383430020041548,0.445092723929319,NA
+"Opportunity 3","Medium","A68083","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-0.409386617760215,0.79,1,"logit",1,-0.409386617760215,0
+"Opportunity 1","Medium","A61842","Math",3,"1.Probability","1.Probability.3","Math_G3",-1.90351036277363,0.41,1,"logit",1,-1.90351036277363,0
+"Opportunity 2","Medium","A39354","Math",3,"4.Measurement","4.Measurement.4","Math_G3",0.238375603274095,0.34,1,"logit",1,0.238375603274095,0
+"Opportunity 1","Medium","A26652","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.645911382851973,0.57,1,"logit",1,0.645911382851973,0
+"Opportunity 1","Medium","A84199","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",0.692989464587724,0.53,2,"adjacent logit",-0.236917614157253,1.6228965433327,NA
+"Opportunity 1","Medium","A34256","Math",3,"4.Measurement","4.Measurement.3","Math_G3",0.0797593146361615,0.75,1,"logit",1,0.0797593146361615,0
+"Opportunity 3","Medium","A92019","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",0.0144763380256484,0.61,1,"logit",1,0.0144763380256484,0
+"Opportunity 1","Medium","A95005","Math",3,"3.Geometry","3.Geometry.3","Math_G3",-1.60237743058837,0.54,1,"logit",1,-1.60237743058837,0
+"Opportunity 1","Medium","A28097","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.364697859571369,0.3,1,"logit",1,-0.364697859571369,0
+"Opportunity 1","Medium","A69198","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",0.946873810508192,0.38,1,"logit",1,0.946873810508192,0
+"Opportunity 2","Medium","A74303","Math",3,"2.Algebra","2.Algebra.5","Math_G3",-0.0900618010096711,0.3,1,"logit",1,-0.0900618010096711,0
+"Opportunity 1","Medium","A56181","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",-0.9569750780781,0.4,1,"logit",1,-0.9569750780781,0
+"Opportunity 2","Medium","A15257","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",-0.194826961553316,0.74,1,"logit",1,-0.194826961553316,0
+"Opportunity 2","Medium","A81608","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",-1.38351091730033,0.44,1,"logit",1,-1.38351091730033,0
+"Opportunity 1","Medium","A35780","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",0.188839769591427,0.48,1,"logit",1,0.188839769591427,0
+"Opportunity 2","Medium","A97746","Math",3,"4.Measurement","4.Measurement.5","Math_G3",-1.67988928051569,0.65,1,"logit",1,-1.67988928051569,0
+"Opportunity 3","Medium","A14965","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-0.143401547460827,0.45,1,"logit",1,-0.143401547460827,0
+"Opportunity 2","Medium","A37891","Math",3,"2.Algebra","2.Algebra.4","Math_G3",-0.352446104483667,0.41,2,"adjacent logit",-3.68568228408129,2.98079007511395,NA
+"Opportunity 1","Medium","A86786","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",-0.68137181572583,0.74,1,"logit",1,-0.68137181572583,0
+"Opportunity 1","Medium","A76688","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",0.130615579518256,0.4,1,"logit",1,0.130615579518256,0
+"Opportunity 1","Medium","A84623","Math",3,"1.Probability","1.Probability.5","Math_G3",-0.195377157587865,0.43,1,"logit",1,-0.195377157587865,0
+"Opportunity 1","Medium","A97340","Math",3,"3.Geometry","3.Geometry.5","Math_G3",0.552374339909384,0.42,2,"adjacent logit",-1.20556623925986,2.31031491907863,NA
+"Opportunity 1","Medium","A69385","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",-0.663931715608595,0.58,1,"logit",1,-0.663931715608595,0
+"Opportunity 3","Medium","A85031","Math",3,"3.Geometry","3.Geometry.1","Math_G3",0.895760308499728,0.57,1,"logit",1,0.895760308499728,0
+"Opportunity 1","Medium","A87767","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",-1.57157083175813,0.64,1,"logit",1,-1.57157083175813,0
+"Opportunity 3","Medium","A80876","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",0.480873099464019,0.79,1,"logit",1,0.480873099464019,0
+"Opportunity 2","Medium","A56758","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.40759488581605,0.41,1,"logit",1,0.40759488581605,0
+"Opportunity 1","Medium","A17631","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",-0.22432723937938,0.68,1,"logit",1,-0.22432723937938,0
+"Opportunity 2","Medium","A21100","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",0.472346946852546,0.66,2,"adjacent logit",-2.49595776231773,3.44065165602282,NA
+"Opportunity 2","Medium","A21715","Math",3,"1.Probability","1.Probability.2","Math_G3",-1.31334382091616,0.76,1,"logit",1,-1.31334382091616,0
+"Opportunity 2","Medium","A11794","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",1.04342255014046,0.41,1,"logit",1,1.04342255014046,0
+"Opportunity 1","Medium","A48224","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",1.17419731881234,0.52,1,"logit",1,1.17419731881234,0
+"Opportunity 1","Medium","A57036","Math",3,"1.Probability","1.Probability.4","Math_G3",-0.406392869891078,0.54,1,"logit",1,-0.406392869891078,0
+"Opportunity 2","Medium","A14908","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",0.569725892873104,0.65,1,"logit",1,0.569725892873104,0
+"Opportunity 3","Medium","A73856","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",-0.0249890501149436,0.3,1,"logit",1,-0.0249890501149436,0
+"Opportunity 2","Medium","A44970","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",0.938424014309435,0.44,2,"adjacent logit",-1.70141368719934,3.57826171581821,NA
+"Opportunity 1","Medium","A95227","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",0.804921537494486,0.62,1,"logit",1,0.804921537494486,0
+"Opportunity 2","Medium","A55996","Math",3,"3.Geometry","3.Geometry.6","Math_G3",1.01179288958191,0.72,2,"adjacent logit",0.637275970337904,1.38630980882591,NA
+"Opportunity 1","Medium","A40479","Math",3,"4.Measurement","4.Measurement.2","Math_G3",0.583417346013297,0.78,1,"logit",1,0.583417346013297,0
+"Opportunity 3","Medium","A95918","Language Arts",4,"1.Vocabulary","1.Vocabulary.5","Language Arts_G4",-0.973707629232475,0.34,2,"adjacent logit",-1.36797083308635,-0.579444425378596,NA
+"Opportunity 3","Medium","A57430","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",1.32259818003071,0.58,1,"logit",1,1.32259818003071,0
+"Opportunity 3","Medium","A45563","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",1.58015154207334,0.73,1,"logit",1,1.58015154207334,0
+"Opportunity 2","Medium","A75061","Math",3,"3.Geometry","3.Geometry.3","Math_G3",0.3415598526424,0.37,2,"adjacent logit",-0.524534831309785,1.20765453659459,NA
+"Opportunity 1","Medium","A48389","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",0.415306220444351,0.64,1,"logit",1,0.415306220444351,0
+"Opportunity 1","Medium","A45082","Math",3,"3.Geometry","3.Geometry.6","Math_G3",1.63645451362813,0.45,1,"logit",1,1.63645451362813,0
+"Opportunity 2","Medium","A79954","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",0.5665521210833,0.58,1,"logit",1,0.5665521210833,0
+"Opportunity 3","Medium","A16645","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.202355741531186,0.59,2,"adjacent logit",-0.727693539685747,0.322982056623375,NA
+"Opportunity 1","Medium","A99641","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",-0.658433337531347,0.57,1,"logit",1,-0.658433337531347,0
+"Opportunity 1","Medium","A98844","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",0.221322339725932,0.34,1,"logit",1,0.221322339725932,0
+"Opportunity 1","Medium","A96038","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",0.0485022135597784,0.72,2,"adjacent logit",-3.39765743022113,3.49466185734069,NA
+"Opportunity 1","Medium","A66506","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",0.98461546834155,0.79,1,"logit",1,0.98461546834155,0
+"Opportunity 1","Medium","A45276","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",0.856752418544364,0.49,2,"adjacent logit",-3.79617755046127,5.50968238754999,NA
+"Opportunity 1","Medium","A19753","Math",3,"3.Geometry","3.Geometry.5","Math_G3",0.542518558614875,0.72,1,"logit",1,0.542518558614875,0
+"Opportunity 1","Medium","A11326","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",0.480779362860717,0.37,1,"logit",1,0.480779362860717,0
+"Opportunity 2","Medium","A59100","Math",3,"1.Probability","1.Probability.5","Math_G3",-1.84965653977517,0.41,2,"adjacent logit",-2.37885653969457,-1.32045653985578,NA
+"Opportunity 2","Medium","A72133","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.129205839102163,0.66,1,"logit",1,-0.129205839102163,0
+"Opportunity 1","Medium","A78006","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",-1.07931975587504,0.33,2,"adjacent logit",-2.70765175875262,0.549012247002546,NA
+"Opportunity 2","Medium","A91739","Math",3,"3.Geometry","3.Geometry.3","Math_G3",-0.488956535564501,0.7,2,"adjacent logit",-2.24211990277511,1.26420683164611,NA
+"Opportunity 3","Medium","A93903","Math",3,"2.Algebra","2.Algebra.3","Math_G3",-1.30630767910149,0.69,1,"logit",1,-1.30630767910149,0
+"Opportunity 2","Medium","A82715","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",1.18066184403778,0.68,1,"logit",1,1.18066184403778,0
+"Opportunity 3","Medium","A58033","Math",3,"1.Probability","1.Probability.6","Math_G3",-0.386315179910728,0.61,1,"logit",1,-0.386315179910728,0
+"Opportunity 3","Medium","A15886","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-1.61281985941369,0.76,1,"logit",1,-1.61281985941369,0
+"Opportunity 1","Medium","A51609","Natural Science",5,"4.Chemistry","4.Chemistry.2","Natural Science_G5",1.94155700888633,0.44,2,"adjacent logit",-3.30785057455341,7.19096459232607,NA
+"Opportunity 1","Medium","A94331","Math",3,"2.Algebra","2.Algebra.4","Math_G3",1.33465027283245,0.69,1,"logit",1,1.33465027283245,0
+"Opportunity 2","Medium","A49447","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",0.0928445674762889,0.53,1,"logit",1,0.0928445674762889,0
+"Opportunity 3","Medium","A58978","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",0.544858085030129,0.58,1,"logit",1,0.544858085030129,0
+"Opportunity 1","Medium","A81842","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",0.317234080060151,0.72,1,"logit",1,0.317234080060151,0
+"Opportunity 2","Medium","A73002","Math",3,"4.Measurement","4.Measurement.5","Math_G3",1.11883354250755,0.48,1,"logit",1,1.11883354250755,0
+"Opportunity 2","Medium","A95124","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",0.56415223850581,0.64,1,"logit",1,0.56415223850581,0
+"Opportunity 1","Medium","A56778","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-2.48385417757101,0.52,1,"logit",1,-2.48385417757101,0
+"Opportunity 2","Medium","A80011","Math",3,"2.Algebra","2.Algebra.4","Math_G3",-1.3087866308858,0.75,2,"adjacent logit",-1.98760595357841,-0.629967308193194,NA
+"Opportunity 2","Medium","A76170","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",1.80038006457799,0.67,1,"logit",1,1.80038006457799,0
+"Opportunity 3","Medium","A44757","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-1.30195532602844,0.57,1,"logit",1,-1.30195532602844,0
+"Opportunity 3","Medium","A59734","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",1.08868234326856,0.63,1,"logit",1,1.08868234326856,0
+"Opportunity 3","Medium","A36333","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",0.687142758967541,0.7,1,"logit",1,0.687142758967541,0
+"Opportunity 2","Medium","A74738","Math",3,"4.Measurement","4.Measurement.5","Math_G3",-0.491506253830815,0.66,1,"logit",1,-0.491506253830815,0
+"Opportunity 3","Medium","A12433","Math",3,"2.Algebra","2.Algebra.5","Math_G3",0.800910142910356,0.78,2,"adjacent logit",-3.33926039699261,4.94108068281332,NA
+"Opportunity 1","Medium","A70461","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",-0.284702518659245,0.56,1,"logit",1,-0.284702518659245,0
+"Opportunity 3","Medium","A63921","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",0.25099987798532,0.77,2,"adjacent logit",-2.03195071880742,2.53395047477805,NA
+"Opportunity 3","Medium","A98672","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-2.49874412337175,0.52,1,"logit",1,-2.49874412337175,0
+"Opportunity 2","Medium","A79963","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",0.951286325367828,0.48,2,"adjacent logit",-3.67531988850765,5.5778925392433,NA
+"Opportunity 1","Medium","A83857","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.568452322835792,0.39,1,"logit",1,0.568452322835792,0
+"Opportunity 3","Medium","A20350","Math",3,"4.Measurement","4.Measurement.1","Math_G3",1.00237860447703,0.74,1,"logit",1,1.00237860447703,0
+"Opportunity 2","Medium","A42287","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.904717660129224,0.39,2,"adjacent logit",-2.5715648238661,0.762129503607648,NA
+"Opportunity 2","Medium","A74670","Math",3,"2.Algebra","2.Algebra.1","Math_G3",-0.266912157605932,0.49,1,"logit",1,-0.266912157605932,0
+"Opportunity 3","Medium","A69960","Math",3,"4.Measurement","4.Measurement.2","Math_G3",0.891818987080185,0.58,1,"logit",1,0.891818987080185,0
+"Opportunity 2","Medium","A47241","Language Arts",4,"3.Grammar","3.Grammar.1","Language Arts_G4",-0.377596735355393,0.37,1,"logit",1,-0.377596735355393,0
+"Opportunity 3","Medium","A15762","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.949980376602276,0.66,1,"logit",1,-0.949980376602276,0
+"Opportunity 2","Medium","A58487","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",-0.375092956505116,0.49,1,"logit",1,-0.375092956505116,0
+"Opportunity 1","Medium","A32933","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",-0.696811177262977,0.72,2,"adjacent logit",-1.48414491497035,0.0905225604443962,NA
+"Opportunity 2","Medium","A76759","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",-1.18740202989113,0.46,2,"adjacent logit",-3.68468950869474,1.30988544891248,NA
+"Opportunity 3","Medium","A15854","Math",3,"3.Geometry","3.Geometry.1","Math_G3",0.576372314075414,0.65,2,"adjacent logit",-0.16052879671831,1.31327342486914,NA
+"Opportunity 1","Medium","A75876","Language Arts",4,"2.Reading","2.Reading.6","Language Arts_G4",0.705536762295727,0.37,1,"logit",1,0.705536762295727,0
+"Opportunity 1","Medium","A27326","Math",3,"1.Probability","1.Probability.4","Math_G3",2.70266894633495,0.47,2,"adjacent logit",2.64510772716859,2.76023016550131,NA
+"Opportunity 3","Medium","A27399","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-0.201916522730527,0.31,1,"logit",1,-0.201916522730527,0
+"Opportunity 1","Medium","A60517","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",0.280258343025686,0.43,1,"logit",1,0.280258343025686,0
+"Opportunity 2","Medium","A70616","Language Arts",4,"3.Grammar","3.Grammar.2","Language Arts_G4",1.01784781665024,0.45,1,"logit",1,1.01784781665024,0
+"Opportunity 3","Medium","A37101","Math",3,"1.Probability","1.Probability.3","Math_G3",-1.50732353780832,0.47,2,"adjacent logit",-2.54890360986423,-0.465743465752406,NA
+"Opportunity 1","Medium","A39797","Math",3,"1.Probability","1.Probability.5","Math_G3",2.12792470828106,0.67,1,"logit",1,2.12792470828106,0
+"Opportunity 1","Medium","A70333","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.758335739688621,0.61,1,"logit",1,0.758335739688621,0
+"Opportunity 1","Medium","A45715","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",0.466808113677143,0.56,1,"logit",1,0.466808113677143,0
+"Opportunity 2","Medium","A61045","Math",3,"3.Geometry","3.Geometry.6","Math_G3",0.230478155759752,0.53,2,"adjacent logit",0.215441798041534,0.245514513477969,NA
+"Opportunity 3","Medium","A84667","Math",3,"3.Geometry","3.Geometry.5","Math_G3",1.47044849085774,0.56,1,"logit",1,1.47044849085774,0
+"Opportunity 1","Medium","A74939","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-2.72075401068486,0.74,1,"logit",1,-2.72075401068486,0
+"Opportunity 2","Medium","A66262","Math",3,"3.Geometry","3.Geometry.6","Math_G3",1.77255301793151,0.42,2,"adjacent logit",0.687380845509062,2.85772519035396,NA
+"Opportunity 1","Medium","A99365","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",0.852274649390025,0.44,1,"logit",1,0.852274649390025,0
+"Opportunity 2","Medium","A42525","Math",3,"2.Algebra","2.Algebra.2","Math_G3",-0.392915594780701,0.38,1,"logit",1,-0.392915594780701,0
+"Opportunity 3","Medium","A33579","Math",3,"4.Measurement","4.Measurement.6","Math_G3",0.346491593352983,0.61,2,"adjacent logit",-1.19200465316241,1.88498783986838,NA
+"Opportunity 2","Medium","A51704","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",0.213487284890722,0.56,1,"logit",1,0.213487284890722,0
+"Opportunity 2","Hard","A35335","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",0.526274712806437,0.29,1,"logit",1,0.526274712806437,0
+"Opportunity 1","Hard","A52806","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",1.3350845549499,0.03,1,"logit",1,1.3350845549499,0
+"Opportunity 1","Hard","A69206","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",1.58900063811929,0.12,1,"logit",1,1.58900063811929,0
+"Opportunity 3","Hard","A60277","Math",3,"3.Geometry","3.Geometry.3","Math_G3",1.79803337199896,0.47,1,"logit",1,1.79803337199896,0
+"Opportunity 3","Hard","A30373","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",1.66002066031838,0.21,1,"logit",1,1.66002066031838,0
+"Opportunity 3","Hard","A28157","Math",3,"1.Probability","1.Probability.4","Math_G3",2.78280949166586,0.34,2,"adjacent logit",-0.224468849604362,5.79008783293608,NA
+"Opportunity 1","Hard","A75687","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",0.642926977348456,0.13,1,"logit",1,0.642926977348456,0
+"Opportunity 3","Hard","A24321","Math",3,"1.Probability","1.Probability.5","Math_G3",0.0463211633235034,0.35,2,"adjacent logit",-2.24538870855173,2.33803103519874,NA
+"Opportunity 1","Hard","A93118","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",-0.750948581857016,0.06,1,"logit",1,-0.750948581857016,0
+"Opportunity 2","Hard","A68564","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",0.231546134982632,0.11,1,"logit",1,0.231546134982632,0
+"Opportunity 3","Hard","A72392","Math",3,"3.Geometry","3.Geometry.5","Math_G3",1.9291450404029,0.4,1,"logit",1,1.9291450404029,0
+"Opportunity 1","Hard","A28353","Math",3,"4.Measurement","4.Measurement.3","Math_G3",0.451691168526131,0.06,1,"logit",1,0.451691168526131,0
+"Opportunity 2","Hard","A60750","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",-0.246494641663969,0.19,1,"logit",1,-0.246494641663969,0
+"Opportunity 2","Hard","A78959","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.647710308628101,0.18,2,"adjacent logit",-2.96463606897879,4.26005668623499,NA
+"Opportunity 3","Hard","A82312","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",1.30568543198366,0.24,1,"logit",1,1.30568543198366,0
+"Opportunity 2","Hard","A17073","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.781394162189282,0.16,1,"logit",1,0.781394162189282,0
+"Opportunity 3","Hard","A32940","Math",3,"1.Probability","1.Probability.5","Math_G3",0.620810236133642,0.45,2,"adjacent logit",-3.90392943267274,5.14554990494002,NA
+"Opportunity 1","Hard","A24646","Math",3,"1.Probability","1.Probability.5","Math_G3",0.162642192521994,0,1,"logit",1,0.162642192521994,0
+"Opportunity 2","Hard","A89317","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",0.980908799536306,0.37,2,"adjacent logit",-1.89632100056529,3.8581385996379,NA
+"Opportunity 3","Hard","A27050","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.57895839892972,0.45,1,"logit",1,-0.57895839892972,0
+"Opportunity 3","Hard","A75962","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",-0.198125868783786,0.23,2,"adjacent logit",-1.31842684974963,0.922175112182062,NA
+"Opportunity 2","Hard","A23951","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",-0.205312121661514,0.11,2,"adjacent logit",-3.94869401648165,3.53806977315862,NA
+"Opportunity 3","Hard","A14172","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",1.39177173622759,0.48,1,"logit",1,1.39177173622759,0
+"Opportunity 3","Hard","A62318","Math",3,"4.Measurement","4.Measurement.3","Math_G3",-1.40492452236266,0.48,1,"logit",1,-1.40492452236266,0
+"Opportunity 1","Hard","A99137","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.315160521133291,0.35,1,"logit",1,0.315160521133291,0
+"Opportunity 2","Hard","A71071","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",2.43208824078365,0.21,1,"logit",1,2.43208824078365,0
+"Opportunity 1","Hard","A51362","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-0.0248386039720138,0.12,1,"logit",1,-0.0248386039720138,0
+"Opportunity 2","Hard","A21274","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",-0.733585055700878,0.2,2,"adjacent logit",-2.63328502787616,1.16611491647441,NA
+"Opportunity 1","Hard","A90467","Math",3,"2.Algebra","2.Algebra.3","Math_G3",1.00023766669295,0.31,1,"logit",1,1.00023766669295,0
+"Opportunity 2","Hard","A80399","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",1.41639492213595,0.11,1,"logit",1,1.41639492213595,0
+"Opportunity 2","Hard","A60808","Math",3,"2.Algebra","2.Algebra.5","Math_G3",2.48116219013498,0.37,1,"logit",1,2.48116219013498,0
+"Opportunity 1","Hard","A26836","Math",3,"2.Algebra","2.Algebra.3","Math_G3",-1.56268075348471,0.28,2,"adjacent logit",-2.3066302548502,-0.818731252119217,NA
+"Opportunity 3","Hard","A22912","Math",3,"1.Probability","1.Probability.5","Math_G3",0.913691006630819,0.06,1,"logit",1,0.913691006630819,0
+"Opportunity 2","Hard","A74849","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",1.61953559124311,0.09,1,"logit",1,1.61953559124311,0
+"Opportunity 3","Hard","A50593","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",0.625685068961747,0.27,1,"logit",1,0.625685068961747,0
+"Opportunity 3","Hard","A33234","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",0.371038616751626,0.23,1,"logit",1,0.371038616751626,0
+"Opportunity 3","Hard","A38367","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",0.358202429194905,0.3,2,"adjacent logit",-2.37104758250243,3.08745244089224,NA
+"Opportunity 1","Hard","A49344","Math",3,"2.Algebra","2.Algebra.2","Math_G3",0.0226301934610013,0.28,1,"logit",1,0.0226301934610013,0
+"Opportunity 3","Hard","A57864","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",-1.02109193171119,0.46,2,"adjacent logit",-1.22483981639588,-0.817344047026493,NA
+"Opportunity 2","Hard","A48205","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",1.87311460851333,0.24,1,"logit",1,1.87311460851333,0
+"Opportunity 1","Hard","A25645","Math",3,"1.Probability","1.Probability.1","Math_G3",-0.880285106914592,0.26,1,"logit",1,-0.880285106914592,0
+"Opportunity 3","Hard","A93526","Natural Science",5,"4.Chemistry","4.Chemistry.2","Natural Science_G5",-1.51274921332053,0.14,1,"logit",1,-1.51274921332053,0
+"Opportunity 3","Hard","A86494","Math",3,"2.Algebra","2.Algebra.1","Math_G3",2.17386579343677,0.46,2,"adjacent logit",-1.95572604627651,6.30345763315005,NA
+"Opportunity 3","Hard","A94421","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",-1.28680272946727,0.48,1,"logit",1,-1.28680272946727,0
+"Opportunity 1","Hard","A53899","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",-1.06840731352679,0.31,1,"logit",1,-1.06840731352679,0
+"Opportunity 2","Hard","A61998","Math",3,"2.Algebra","2.Algebra.5","Math_G3",0.596221946621238,0.46,1,"logit",1,0.596221946621238,0
+"Opportunity 2","Hard","A86227","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",1.93495846866779,0.31,1,"logit",1,1.93495846866779,0
+"Opportunity 3","Hard","A32050","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",-0.654299524576083,0.04,1,"logit",1,-0.654299524576083,0
+"Opportunity 2","Hard","A98141","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",0.611347172017143,0.37,1,"logit",1,0.611347172017143,0
+"Opportunity 1","Hard","A95331","Math",3,"1.Probability","1.Probability.1","Math_G3",1.5875235362657,0.08,1,"logit",1,1.5875235362657,0
+"Opportunity 2","Hard","A34655","Math",3,"4.Measurement","4.Measurement.4","Math_G3",0.421213861214136,0.09,1,"logit",1,0.421213861214136,0
+"Opportunity 2","Hard","A73774","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",1.02678817887352,0.46,2,"adjacent logit",-3.55520687312274,5.60878323086977,NA
+"Opportunity 2","Hard","A39524","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",1.56476843261843,0.45,1,"logit",1,1.56476843261843,0
+"Opportunity 3","Hard","A69476","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",-1.22317668779864,0.13,1,"logit",1,-1.22317668779864,0
+"Opportunity 3","Hard","A69246","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.795047744860853,0.33,1,"logit",1,0.795047744860853,0
+"Opportunity 2","Hard","A65398","Math",3,"1.Probability","1.Probability.2","Math_G3",-0.464593771565572,0.45,2,"adjacent logit",-2.87397491629028,1.94478737315914,NA
+"Opportunity 3","Hard","A66178","Natural Science",5,"4.Chemistry","4.Chemistry.5","Natural Science_G5",1.68686386864931,0.19,2,"adjacent logit",-0.118288586435929,3.49201632373454,NA
+"Opportunity 2","Hard","A92695","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",1.14083002669016,0.02,1,"logit",1,1.14083002669016,0
+"Opportunity 2","Hard","A12457","Math",3,"3.Geometry","3.Geometry.3","Math_G3",2.16816149781917,0.44,1,"logit",1,2.16816149781917,0
+"Opportunity 3","Hard","A32505","Math",3,"2.Algebra","2.Algebra.2","Math_G3",0.67267433683575,0.15,1,"logit",1,0.67267433683575,0
+"Opportunity 2","Hard","A89445","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",0.144183095146524,0.29,2,"adjacent logit",-0.717783236294299,1.00614942658735,NA
+"Opportunity 3","Hard","A34692","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",0.323999353506446,0.26,2,"adjacent logit",-2.64916032667495,3.29715903368784,NA
+"Opportunity 1","Hard","A51519","Math",3,"3.Geometry","3.Geometry.5","Math_G3",2.69987120719474,0.4,1,"logit",1,2.69987120719474,0
+"Opportunity 2","Hard","A56517","Math",3,"4.Measurement","4.Measurement.1","Math_G3",1.20909720925573,0.41,1,"logit",1,1.20909720925573,0
+"Opportunity 1","Hard","A37527","Natural Science",5,"4.Chemistry","4.Chemistry.5","Natural Science_G5",1.9085006529651,0.07,1,"logit",1,1.9085006529651,0
+"Opportunity 3","Hard","A21033","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",0.603761296719439,0.37,1,"logit",1,0.603761296719439,0
+"Opportunity 3","Hard","A74259","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",0.566722399065732,0.28,2,"adjacent logit",-3.45354967626862,4.58699447440009,NA
+"Opportunity 2","Hard","A46654","Language Arts",4,"1.Vocabulary","1.Vocabulary.5","Language Arts_G4",1.22686545443122,0.03,1,"logit",1,1.22686545443122,0
+"Opportunity 2","Hard","A19037","Math",3,"4.Measurement","4.Measurement.2","Math_G3",1.79212359121454,0.45,1,"logit",1,1.79212359121454,0
+"Opportunity 2","Hard","A48676","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.988294710349887,0.21,1,"logit",1,-0.988294710349887,0
+"Opportunity 3","Hard","A99299","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.670083445318939,0.38,1,"logit",1,0.670083445318939,0
+"Opportunity 2","Hard","A79982","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",0.465764729736117,0.28,1,"logit",1,0.465764729736117,0
+"Opportunity 1","Hard","A73811","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",1.88846571831298,0.48,1,"logit",1,1.88846571831298,0
+"Opportunity 3","Hard","A28573","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",-0.592257651259395,0.24,1,"logit",1,-0.592257651259395,0
+"Opportunity 2","Hard","A28668","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",1.06913883009172,0.08,1,"logit",1,1.06913883009172,0
+"Opportunity 1","Hard","A48467","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",3.56651769144819,0.34,1,"logit",1,3.56651769144819,0
+"Opportunity 2","Hard","A23882","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",-1.27288235690656,0.25,2,"adjacent logit",-3.91920756585749,1.37344285204436,NA
+"Opportunity 1","Hard","A50117","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",0.480171540541329,0.26,1,"logit",1,0.480171540541329,0
+"Opportunity 3","Hard","A14738","Math",3,"3.Geometry","3.Geometry.3","Math_G3",0.130642981701819,0.26,1,"logit",1,0.130642981701819,0
+"Opportunity 2","Hard","A31937","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",1.66890880718147,0.23,1,"logit",1,1.66890880718147,0
+"Opportunity 1","Hard","A50608","Math",3,"4.Measurement","4.Measurement.1","Math_G3",0.833316391567031,0.12,1,"logit",1,0.833316391567031,0
+"Opportunity 2","Hard","A90459","Math",3,"4.Measurement","4.Measurement.5","Math_G3",2.03148620430769,0,1,"logit",1,2.03148620430769,0
+"Opportunity 3","Hard","A13021","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",0.665024981239441,0.2,2,"adjacent logit",-3.1580914575592,4.48814142003808,NA
+"Opportunity 3","Hard","A73480","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",0.762547278604272,0.16,2,"adjacent logit",-3.50249239732238,5.02758695453092,NA
+"Opportunity 2","Hard","A69003","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",0.0982945428036397,0.22,2,"adjacent logit",-0.670574267804976,0.867163353412256,NA
+"Opportunity 1","Hard","A26797","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",3.50100341275967,0.32,1,"logit",1,3.50100341275967,0
+"Opportunity 3","Hard","A78451","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",1.60918868327132,0.12,1,"logit",1,1.60918868327132,0
+"Opportunity 3","Hard","A91698","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-1.11358855003063,0.39,1,"logit",1,-1.11358855003063,0
+"Opportunity 2","Hard","A63951","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",0.0831862292315979,0.2,1,"logit",1,0.0831862292315979,0
+"Opportunity 2","Hard","A33901","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",0.839946661429292,0.12,1,"logit",1,0.839946661429292,0
+"Opportunity 3","Hard","A79988","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",0.55274660523723,0.26,1,"logit",1,0.55274660523723,0
+"Opportunity 2","Hard","A74423","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",0.210202314991688,0.41,1,"logit",1,0.210202314991688,0
+"Opportunity 1","Hard","A56539","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",-0.28677706943518,0.39,1,"logit",1,-0.28677706943518,0
+"Opportunity 1","Hard","A61335","Math",3,"3.Geometry","3.Geometry.2","Math_G3",0.868917284227576,0.31,1,"logit",1,0.868917284227576,0
+"Opportunity 1","Hard","A59714","Natural Science",5,"3.Earth Science","3.Earth Science.3","Natural Science_G5",0.690675671606907,0.06,1,"logit",1,0.690675671606907,0
+"Opportunity 3","Hard","A49267","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",1.63392853456975,0.17,1,"logit",1,1.63392853456975,0
+"Opportunity 3","Hard","A47403","Math",3,"3.Geometry","3.Geometry.3","Math_G3",0.31438689297214,0.35,1,"logit",1,0.31438689297214,0
+"Opportunity 3","Hard","A22213","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",2.12274836188714,0.27,1,"logit",1,2.12274836188714,0
+"Opportunity 1","Hard","A61433","Math",3,"4.Measurement","4.Measurement.1","Math_G3",0.581177264319429,0.32,1,"logit",1,0.581177264319429,0
+"Opportunity 2","Hard","A49665","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",1.59359386879385,0.42,1,"logit",1,1.59359386879385,0
+"Opportunity 1","Hard","A88186","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",1.28195815619308,0.45,2,"adjacent logit",-0.623847293879452,3.18776360626562,NA
+"Opportunity 3","Hard","A93658","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",0.85010357762684,0.22,1,"logit",1,0.85010357762684,0
+"Opportunity 2","Hard","A85605","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",0.977776146727547,0,1,"logit",1,0.977776146727547,0
+"Opportunity 2","Hard","A20459","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",2.55419269501316,0.38,2,"adjacent logit",1.37820462139913,3.73018076862719,NA
+"Opportunity 3","Hard","A81728","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",1.41844026256345,0.03,1,"logit",1,1.41844026256345,0
+"Opportunity 1","Hard","A23998","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",-0.0461179403071663,0.43,1,"logit",1,-0.0461179403071663,0
+"Opportunity 2","Hard","A54435","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",1.47857588545179,0.41,1,"logit",1,1.47857588545179,0
+"Opportunity 3","Hard","A76756","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",1.88775212074815,0.12,1,"logit",1,1.88775212074815,0
+"Opportunity 2","Hard","A36868","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.749773815446889,0.31,1,"logit",1,0.749773815446889,0
+"Opportunity 1","Hard","A93280","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",0.644410698662567,0.03,1,"logit",1,0.644410698662567,0
+"Opportunity 3","Hard","A52215","Math",3,"4.Measurement","4.Measurement.3","Math_G3",1.37382328250146,0.14,1,"logit",1,1.37382328250146,0
+"Opportunity 3","Hard","A26824","Math",3,"1.Probability","1.Probability.5","Math_G3",-0.310697302486872,0.46,1,"logit",1,-0.310697302486872,0
+"Opportunity 1","Hard","A33981","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",1.89244465408008,0.22,1,"logit",1,1.89244465408008,0
+"Opportunity 1","Hard","A69753","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",0.311842447254893,0.25,1,"logit",1,0.311842447254893,0
+"Opportunity 3","Hard","A10668","Math",3,"2.Algebra","2.Algebra.5","Math_G3",0.512362881911704,0.19,1,"logit",1,0.512362881911704,0
+"Opportunity 2","Hard","A17555","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",0.642667954736305,0.27,1,"logit",1,0.642667954736305,0
+"Opportunity 2","Hard","A72058","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",0.0284963512507305,0.45,1,"logit",1,0.0284963512507305,0
+"Opportunity 3","Hard","A95683","Math",3,"2.Algebra","2.Algebra.2","Math_G3",1.530191391301,0.49,1,"logit",1,1.530191391301,0
+"Opportunity 3","Hard","A79164","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",2.36709243785292,0.47,2,"adjacent logit",-1.2168639111999,5.95104878690575,NA
+"Opportunity 3","Hard","A50467","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",2.26556936563732,0.1,1,"logit",1,2.26556936563732,0
+"Opportunity 3","Hard","A20890","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",1.44263138644698,0.36,1,"logit",1,1.44263138644698,0
+"Opportunity 3","Hard","A83573","Language Arts",4,"1.Vocabulary","1.Vocabulary.4","Language Arts_G4",0.401999137327166,0.12,1,"logit",1,0.401999137327166,0
+"Opportunity 1","Hard","A13015","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",-0.56938412011186,0.36,1,"logit",1,-0.56938412011186,0
+"Opportunity 2","Hard","A59304","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",-0.182268953707344,0.21,2,"adjacent logit",-1.08105582248259,0.716517915067898,NA
+"Opportunity 2","Hard","A33702","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",0.379893094726435,0.08,1,"logit",1,0.379893094726435,0
+"Opportunity 3","Hard","A78172","Math",3,"4.Measurement","4.Measurement.5","Math_G3",0.416443560806962,0.44,1,"logit",1,0.416443560806962,0
+"Opportunity 1","Hard","A22070","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",2.27132145432447,0.42,2,"adjacent logit",-0.35185070544471,4.89449361409364,NA
+"Opportunity 3","Hard","A74736","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",1.02099339729914,0.45,1,"logit",1,1.02099339729914,0
+"Opportunity 1","Hard","A92563","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",3.34925923343865,0.05,1,"logit",1,3.34925923343865,0
+"Opportunity 3","Hard","A61426","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",3.1902928195894,0.45,1,"logit",1,3.1902928195894,0
+"Opportunity 1","Hard","A54705","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",0.151927921184201,0.24,1,"logit",1,0.151927921184201,0
+"Opportunity 3","Hard","A35748","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",5.2210145180249,0.35,2,"adjacent logit",0.648247340364254,9.79378169568555,NA
+"Opportunity 1","Hard","A89119","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",-1.17997025905085,0.19,1,"logit",1,-1.17997025905085,0
+"Opportunity 2","Hard","A65549","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",0.0309644288474173,0.02,2,"adjacent logit",-1.36221230617696,1.4241411638718,NA
+"Opportunity 2","Hard","A58225","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",1.40652713903063,0.28,1,"logit",1,1.40652713903063,0
+"Opportunity 2","Hard","A75893","Math",3,"4.Measurement","4.Measurement.6","Math_G3",2.02759897256794,0.39,1,"logit",1,2.02759897256794,0
+"Opportunity 3","Hard","A99297","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",0.00265302155940339,0.21,2,"adjacent logit",-3.28596457463994,3.29127061775875,NA
+"Opportunity 3","Hard","A15478","Natural Science",5,"4.Chemistry","4.Chemistry.2","Natural Science_G5",2.80657831516349,0.1,2,"adjacent logit",-2.24728957950264,7.86044620982961,NA
+"Opportunity 2","Hard","A65916","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",0.0820259413859066,0.21,1,"logit",1,0.0820259413859066,0
+"Opportunity 1","Hard","A46516","Math",3,"3.Geometry","3.Geometry.6","Math_G3",-0.961034597175453,0.49,1,"logit",1,-0.961034597175453,0
+"Opportunity 3","Hard","A33671","Math",3,"3.Geometry","3.Geometry.5","Math_G3",-0.760338261397965,0.27,2,"adjacent logit",-3.64513234896751,2.12445582617158,NA
+"Opportunity 1","Hard","A85302","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",0.500889610914648,0.19,1,"logit",1,0.500889610914648,0
+"Opportunity 2","Hard","A15653","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.830016717338323,0.44,1,"logit",1,0.830016717338323,0
+"Opportunity 3","Hard","A95019","Math",3,"1.Probability","1.Probability.2","Math_G3",0.769525402231882,0.2,1,"logit",1,0.769525402231882,0
+"Opportunity 3","Hard","A71172","Language Arts",4,"4.Writing","4.Writing.2","Language Arts_G4",2.1483953176489,0.31,1,"logit",1,2.1483953176489,0
+"Opportunity 2","Hard","A60547","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",2.55682401232143,0.2,1,"logit",1,2.55682401232143,0
+"Opportunity 1","Hard","A11232","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",0.314333243379401,0.07,1,"logit",1,0.314333243379401,0
+"Opportunity 1","Hard","A88590","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",1.69091766296908,0.01,1,"logit",1,1.69091766296908,0
+"Opportunity 1","Hard","A24057","Math",3,"2.Algebra","2.Algebra.4","Math_G3",0.933698025468216,0.12,1,"logit",1,0.933698025468216,0
+"Opportunity 3","Hard","A27646","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",1.16037885726617,0.46,2,"adjacent logit",-3.48551455861019,5.80627227314253,NA
+"Opportunity 3","Hard","A39110","Math",3,"3.Geometry","3.Geometry.2","Math_G3",-0.23130279470129,0.32,1,"logit",1,-0.23130279470129,0
+"Opportunity 3","Hard","A25433","Math",3,"4.Measurement","4.Measurement.6","Math_G3",0.632242950221344,0.08,1,"logit",1,0.632242950221344,0
+"Opportunity 3","Hard","A84856","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",-0.389427072908397,0.44,1,"logit",1,-0.389427072908397,0
+"Opportunity 1","Hard","A31176","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.466011783822731,0.36,1,"logit",1,0.466011783822731,0
+"Opportunity 2","Hard","A97538","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",0.320494955728937,0.35,1,"logit",1,0.320494955728937,0
+"Opportunity 1","Hard","A23221","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",0.642165897686535,0.35,1,"logit",1,0.642165897686535,0
+"Opportunity 3","Hard","A54143","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",1.48990048513763,0.29,1,"logit",1,1.48990048513763,0
+"Opportunity 3","Hard","A50236","Math",3,"4.Measurement","4.Measurement.6","Math_G3",1.41736878552799,0.33,2,"adjacent logit",0.795369127209115,2.03936844384687,NA
+"Opportunity 2","Hard","A47113","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",0.349941319302508,0.44,1,"logit",1,0.349941319302508,0
+"Opportunity 3","Hard","A44553","Math",3,"4.Measurement","4.Measurement.1","Math_G3",0.321260519837089,0.25,1,"logit",1,0.321260519837089,0
+"Opportunity 1","Hard","A95974","Math",3,"2.Algebra","2.Algebra.5","Math_G3",-0.256641232995145,0.47,1,"logit",1,-0.256641232995145,0
+"Opportunity 3","Hard","A70345","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",0.418338226685116,0.44,1,"logit",1,0.418338226685116,0
+"Opportunity 2","Hard","A12355","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",1.92759676980745,0.46,1,"logit",1,1.92759676980745,0
+"Opportunity 2","Hard","A25666","Natural Science",5,"4.Chemistry","4.Chemistry.5","Natural Science_G5",0.397699610626683,0.48,1,"logit",1,0.397699610626683,0
+"Opportunity 2","Hard","A35546","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",0.98852702121697,0.03,1,"logit",1,0.98852702121697,0
+"Opportunity 1","Hard","A80251","Math",3,"4.Measurement","4.Measurement.4","Math_G3",-0.133740957702766,0.4,1,"logit",1,-0.133740957702766,0
+"Opportunity 2","Hard","A82222","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",1.12197065236593,0.41,1,"logit",1,1.12197065236593,0
+"Opportunity 1","Hard","A68613","Math",3,"3.Geometry","3.Geometry.5","Math_G3",1.61625146454957,0.05,1,"logit",1,1.61625146454957,0
+"Opportunity 1","Hard","A87882","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-1.10609632604793,0.41,1,"logit",1,-1.10609632604793,0
+"Opportunity 2","Hard","A50980","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",0.816792261334895,0.23,1,"logit",1,0.816792261334895,0
+"Opportunity 2","Hard","A70015","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",0.844339498499477,0.5,2,"adjacent logit",-1.03648302143242,2.72516201843138,NA
+"Opportunity 3","Hard","A59176","Math",3,"4.Measurement","4.Measurement.5","Math_G3",-0.253965447618331,0.01,2,"adjacent logit",-1.90666817278452,1.39873727754786,NA
+"Opportunity 2","Hard","A57669","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",-0.343790331022604,0.08,1,"logit",1,-0.343790331022604,0
+"Opportunity 3","Hard","A14555","Language Arts",4,"3.Grammar","3.Grammar.1","Language Arts_G4",0.542749283159131,0.35,2,"adjacent logit",-0.614370970216833,1.69986953653509,NA
+"Opportunity 1","Hard","A59915","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",0.573429132997612,0.41,1,"logit",1,0.573429132997612,0
+"Opportunity 1","Hard","A97008","Natural Science",5,"2.Physics","2.Physics.2","Natural Science_G5",2.13013735406745,0.48,1,"logit",1,2.13013735406745,0
+"Opportunity 2","Hard","A96427","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",2.1161378446725,0.19,1,"logit",1,2.1161378446725,0
+"Opportunity 2","Hard","A45831","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",-0.0823516820606884,0.34,1,"logit",1,-0.0823516820606884,0
+"Opportunity 2","Hard","A19785","Natural Science",5,"1.Biology","1.Biology.4","Natural Science_G5",-0.216461670306682,0.32,1,"logit",1,-0.216461670306682,0
+"Opportunity 3","Hard","A52240","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.722396077801987,0.48,2,"adjacent logit",-3.06622523631742,1.62143308071345,NA
+"Opportunity 3","Hard","A58970","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",-0.0417912300732894,0.24,1,"logit",1,-0.0417912300732894,0
+"Opportunity 2","Hard","A10988","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",1.46168033630847,0.24,2,"adjacent logit",-1.05604858617232,3.97940925878925,NA
+"Opportunity 2","Hard","A81209","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",-0.048868112753937,0.28,1,"logit",1,-0.048868112753937,0
+"Opportunity 1","Hard","A42586","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",-0.211845984593556,0.07,1,"logit",1,-0.211845984593556,0
+"Opportunity 2","Hard","A89103","Math",3,"3.Geometry","3.Geometry.6","Math_G3",1.61787480277296,0.37,2,"adjacent logit",-2.18353833653576,5.41928794208169,NA
+"Opportunity 1","Hard","A31188","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",0.600029035067984,0.27,1,"logit",1,0.600029035067984,0
+"Opportunity 1","Hard","A61325","Natural Science",5,"2.Physics","2.Physics.3","Natural Science_G5",-1.79283198927103,0.18,1,"logit",1,-1.79283198927103,0
+"Opportunity 2","Hard","A74984","Math",3,"1.Probability","1.Probability.3","Math_G3",1.22214221577593,0.31,1,"logit",1,1.22214221577593,0
+"Opportunity 2","Hard","A71498","Math",3,"1.Probability","1.Probability.2","Math_G3",2.89803200473849,0.35,1,"logit",1,2.89803200473849,0
+"Opportunity 3","Hard","A14950","Math",3,"2.Algebra","2.Algebra.4","Math_G3",-0.440908611739216,0.25,2,"adjacent logit",-0.60876557766406,-0.273051645814372,NA
+"Opportunity 2","Hard","A76095","Math",3,"3.Geometry","3.Geometry.6","Math_G3",0.829067031948662,0.29,2,"adjacent logit",-1.63558622214856,3.29372028604588,NA
+"Opportunity 2","Hard","A98387","Math",3,"2.Algebra","2.Algebra.6","Math_G3",1.47148082051764,0.08,1,"logit",1,1.47148082051764,0
+"Opportunity 1","Hard","A33231","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",0.0227182819351268,0.12,1,"logit",1,0.0227182819351268,0
+"Opportunity 2","Hard","A66963","Language Arts",4,"2.Reading","2.Reading.4","Language Arts_G4",0.835382446752352,0.32,1,"logit",1,0.835382446752352,0
+"Opportunity 3","Hard","A66575","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",2.38467160817869,0.46,2,"adjacent logit",1.44011777651962,3.32922543983776,NA
+"Opportunity 1","Hard","A68223","Math",3,"4.Measurement","4.Measurement.2","Math_G3",2.33439980894743,0.25,1,"logit",1,2.33439980894743,0
+"Opportunity 1","Hard","A43460","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",0.967577901335866,0.26,1,"logit",1,0.967577901335866,0
+"Opportunity 3","Hard","A97037","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",2.53616651350955,0.32,1,"logit",1,2.53616651350955,0
+"Opportunity 2","Hard","A18220","Math",3,"1.Probability","1.Probability.3","Math_G3",-0.831928727691659,0.46,1,"logit",1,-0.831928727691659,0
+"Opportunity 1","Hard","A61782","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",-0.00242474775935486,0.31,1,"logit",1,-0.00242474775935486,0
+"Opportunity 2","Hard","A65376","Natural Science",5,"3.Earth Science","3.Earth Science.1","Natural Science_G5",-0.0261691099443715,0.34,1,"logit",1,-0.0261691099443715,0
+"Opportunity 1","Hard","A61265","Math",3,"1.Probability","1.Probability.1","Math_G3",0.634660256081993,0.32,1,"logit",1,0.634660256081993,0
+"Opportunity 2","Hard","A19678","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",0.342187219473093,0.25,1,"logit",1,0.342187219473093,0
+"Opportunity 1","Hard","A98378","Math",3,"2.Algebra","2.Algebra.6","Math_G3",0.844507434370391,0.43,1,"logit",1,0.844507434370391,0
+"Opportunity 1","Hard","A30723","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",0.600993524860083,0.08,1,"logit",1,0.600993524860083,0
+"Opportunity 1","Hard","A85113","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",0.0955385623223832,0.48,2,"adjacent logit",-1.06682968303204,1.2579068076768,NA
+"Opportunity 2","Hard","A37122","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",0.212199523429662,0.03,1,"logit",1,0.212199523429662,0
+"Opportunity 2","Hard","A10497","Natural Science",5,"3.Earth Science","3.Earth Science.4","Natural Science_G5",0.425988126939177,0.04,1,"logit",1,0.425988126939177,0
+"Opportunity 3","Hard","A19558","Math",3,"3.Geometry","3.Geometry.2","Math_G3",1.97260225988764,0.39,1,"logit",1,1.97260225988764,0
+"Opportunity 2","Hard","A92001","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",-0.978619814869513,0.06,1,"logit",1,-0.978619814869513,0
+"Opportunity 1","Hard","A43675","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",1.04283241056577,0.35,1,"logit",1,1.04283241056577,0
+"Opportunity 1","Hard","A68720","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",0.217072970325664,0.04,1,"logit",1,0.217072970325664,0
+"Opportunity 3","Hard","A77211","Natural Science",5,"2.Physics","2.Physics.1","Natural Science_G5",0.666813825565357,0.25,1,"logit",1,0.666813825565357,0
+"Opportunity 3","Hard","A59515","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",0.857316014636963,0.21,2,"adjacent logit",0.242920008931582,1.47171202034234,NA
+"Opportunity 2","Hard","A92897","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",0.209879175793982,0.43,1,"logit",1,0.209879175793982,0
+"Opportunity 3","Hard","A61029","Language Arts",4,"2.Reading","2.Reading.1","Language Arts_G4",-0.227063579505485,0.03,1,"logit",1,-0.227063579505485,0
+"Opportunity 1","Hard","A45399","Math",3,"3.Geometry","3.Geometry.1","Math_G3",1.91435473683035,0.32,1,"logit",1,1.91435473683035,0
+"Opportunity 1","Hard","A22626","Math",3,"1.Probability","1.Probability.5","Math_G3",0.0900071975083513,0.23,1,"logit",1,0.0900071975083513,0
+"Opportunity 3","Hard","A57318","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",0.540304427492428,0.48,1,"logit",1,0.540304427492428,0
+"Opportunity 2","Hard","A66858","Math",3,"2.Algebra","2.Algebra.5","Math_G3",0.628350692440424,0.09,1,"logit",1,0.628350692440424,0
+"Opportunity 1","Hard","A17554","Natural Science",5,"3.Earth Science","3.Earth Science.2","Natural Science_G5",1.12023161383726,0.47,1,"logit",1,1.12023161383726,0
+"Opportunity 1","Hard","A48236","Math",3,"1.Probability","1.Probability.5","Math_G3",-0.996439274804046,0.31,1,"logit",1,-0.996439274804046,0
+"Opportunity 2","Hard","A21128","Math",3,"4.Measurement","4.Measurement.6","Math_G3",1.29251852941455,0.31,1,"logit",1,1.29251852941455,0
+"Opportunity 2","Hard","A82034","Math",3,"3.Geometry","3.Geometry.4","Math_G3",1.2579661331823,0.44,2,"adjacent logit",-2.34967593019032,4.86560819655492,NA
+"Opportunity 3","Hard","A69765","Math",3,"2.Algebra","2.Algebra.1","Math_G3",-0.283523492483462,0.04,1,"logit",1,-0.283523492483462,0
+"Opportunity 3","Hard","A24717","Math",3,"1.Probability","1.Probability.2","Math_G3",0.683378610835292,0.48,1,"logit",1,0.683378610835292,0
+"Opportunity 3","Hard","A77539","Language Arts",4,"1.Vocabulary","1.Vocabulary.3","Language Arts_G4",1.35408889940227,0.09,1,"logit",1,1.35408889940227,0
+"Opportunity 1","Hard","A57363","Natural Science",5,"3.Earth Science","3.Earth Science.6","Natural Science_G5",2.62878511348953,0.25,1,"logit",1,2.62878511348953,0
+"Opportunity 2","Hard","A71052","Math",3,"3.Geometry","3.Geometry.4","Math_G3",1.21490106725194,0.32,1,"logit",1,1.21490106725194,0
+"Opportunity 3","Hard","A72279","Language Arts",4,"2.Reading","2.Reading.2","Language Arts_G4",1.59183691740338,0.08,1,"logit",1,1.59183691740338,0
+"Opportunity 3","Hard","A74338","Math",3,"3.Geometry","3.Geometry.4","Math_G3",1.7670220603809,0.39,1,"logit",1,1.7670220603809,0
+"Opportunity 3","Hard","A77282","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",-0.405359457971911,0.17,1,"logit",1,-0.405359457971911,0
+"Opportunity 3","Hard","A80655","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",0.112163221399566,0.26,1,"logit",1,0.112163221399566,0
+"Opportunity 2","Hard","A43471","Math",3,"2.Algebra","2.Algebra.1","Math_G3",-0.237037599683571,0.37,1,"logit",1,-0.237037599683571,0
+"Opportunity 2","Hard","A13986","Math",3,"4.Measurement","4.Measurement.2","Math_G3",-0.519939531572694,0.47,1,"logit",1,-0.519939531572694,0
+"Opportunity 1","Hard","A66932","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",1.70444177150948,0.18,1,"logit",1,1.70444177150948,0
+"Opportunity 2","Hard","A22336","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",1.98483790825959,0.29,1,"logit",1,1.98483790825959,0
+"Opportunity 3","Hard","A30445","Math",3,"1.Probability","1.Probability.1","Math_G3",1.98435453832842,0.07,1,"logit",1,1.98435453832842,0
+"Opportunity 1","Hard","A69551","Language Arts",4,"2.Reading","2.Reading.3","Language Arts_G4",0.66618380849476,0.24,1,"logit",1,0.66618380849476,0
+"Opportunity 2","Hard","A65115","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",-0.0232226265635349,0.22,1,"logit",1,-0.0232226265635349,0
+"Opportunity 3","Hard","A27530","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",1.50338117049925,0,2,"adjacent logit",-3.29936599682262,6.30612833782111,NA
+"Opportunity 2","Hard","A29965","Math",3,"4.Measurement","4.Measurement.6","Math_G3",0.624556306049071,0.36,1,"logit",1,0.624556306049071,0
+"Opportunity 2","Hard","A59772","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",0.995322724142533,0.34,1,"logit",1,0.995322724142533,0
+"Opportunity 3","Hard","A87895","Language Arts",4,"3.Grammar","3.Grammar.6","Language Arts_G4",0.664574488654872,0.4,1,"logit",1,0.664574488654872,0
+"Opportunity 2","Hard","A52493","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",1.85984906206031,0.13,1,"logit",1,1.85984906206031,0
+"Opportunity 3","Hard","A36459","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",1.34515421073227,0.5,1,"logit",1,1.34515421073227,0
+"Opportunity 1","Hard","A14925","Language Arts",4,"3.Grammar","3.Grammar.4","Language Arts_G4",2.38743835635719,0.06,2,"adjacent logit",1.21773271706136,3.55714399565302,NA
+"Opportunity 2","Hard","A39760","Language Arts",4,"2.Reading","2.Reading.5","Language Arts_G4",1.00912402055331,0.21,1,"logit",1,1.00912402055331,0
+"Opportunity 2","Hard","A37144","Math",3,"4.Measurement","4.Measurement.6","Math_G3",1.00517329338776,0.24,1,"logit",1,1.00517329338776,0
+"Opportunity 3","Hard","A55410","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",1.50067437314793,0.03,1,"logit",1,1.50067437314793,0
+"Opportunity 2","Hard","A18799","Natural Science",5,"1.Biology","1.Biology.6","Natural Science_G5",0.539338334763252,0.28,1,"logit",1,0.539338334763252,0
+"Opportunity 2","Hard","A25813","Math",3,"1.Probability","1.Probability.5","Math_G3",2.62409918542903,0.49,1,"logit",1,2.62409918542903,0
+"Opportunity 3","Hard","A50460","Natural Science",5,"4.Chemistry","4.Chemistry.4","Natural Science_G5",1.19457968480793,0.02,2,"adjacent logit",0.0904658679468477,2.29869350166901,NA
+"Opportunity 2","Hard","A79815","Math",3,"3.Geometry","3.Geometry.2","Math_G3",2.26223120948693,0.35,1,"logit",1,2.26223120948693,0
+"Opportunity 3","Hard","A42398","Language Arts",4,"4.Writing","4.Writing.4","Language Arts_G4",-0.686751719092901,0.07,1,"logit",1,-0.686751719092901,0
+"Opportunity 1","Hard","A43531","Natural Science",5,"1.Biology","1.Biology.2","Natural Science_G5",1.58618957009707,0.1,1,"logit",1,1.58618957009707,0
+"Opportunity 1","Hard","A74236","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",-0.656669729668592,0.45,2,"adjacent logit",-1.01208044928723,-0.301259010049958,NA
+"Opportunity 1","Hard","A30556","Language Arts",4,"4.Writing","4.Writing.5","Language Arts_G4",0.951323702183226,0.41,1,"logit",1,0.951323702183226,0
+"Opportunity 1","Hard","A30235","Language Arts",4,"1.Vocabulary","1.Vocabulary.1","Language Arts_G4",2.03607842373876,0.42,1,"logit",1,2.03607842373876,0
+"Opportunity 2","Hard","A80186","Math",3,"3.Geometry","3.Geometry.6","Math_G3",0.0641149006485516,0.15,2,"adjacent logit",-0.196886288627919,0.325116089925022,NA
+"Opportunity 1","Hard","A80170","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",0.939406186405243,0.05,1,"logit",1,0.939406186405243,0
+"Opportunity 2","Hard","A32492","Natural Science",5,"2.Physics","2.Physics.5","Natural Science_G5",2.05434207864223,0.12,1,"logit",1,2.05434207864223,0
+"Opportunity 2","Hard","A49242","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",0.941295395754043,0.33,1,"logit",1,0.941295395754043,0
+"Opportunity 1","Hard","A65920","Math",3,"1.Probability","1.Probability.2","Math_G3",1.77292590808213,0.49,1,"logit",1,1.77292590808213,0
+"Opportunity 1","Hard","A88698","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",1.38332028737695,0.13,1,"logit",1,1.38332028737695,0
+"Opportunity 3","Hard","A93671","Language Arts",4,"4.Writing","4.Writing.6","Language Arts_G4",1.30782970632024,0.18,1,"logit",1,1.30782970632024,0
+"Opportunity 3","Hard","A17121","Language Arts",4,"1.Vocabulary","1.Vocabulary.6","Language Arts_G4",1.75072440397716,0.31,1,"logit",1,1.75072440397716,0
+"Opportunity 1","Hard","A21659","Natural Science",5,"2.Physics","2.Physics.4","Natural Science_G5",0.449624307251151,0.42,1,"logit",1,0.449624307251151,0
+"Opportunity 1","Hard","A77022","Language Arts",4,"3.Grammar","3.Grammar.5","Language Arts_G4",2.5188875714065,0.14,1,"logit",1,2.5188875714065,0
+"Opportunity 1","Hard","A39776","Language Arts",4,"4.Writing","4.Writing.1","Language Arts_G4",1.58525530239527,0.24,1,"logit",1,1.58525530239527,0
+"Opportunity 2","Hard","A59406","Math",3,"3.Geometry","3.Geometry.4","Math_G3",2.495161856698,0.07,1,"logit",1,2.495161856698,0
+"Opportunity 3","Hard","A12308","Math",3,"3.Geometry","3.Geometry.2","Math_G3",1.42393945122589,0.02,1,"logit",1,1.42393945122589,0
+"Opportunity 2","Hard","A48482","Math",3,"1.Probability","1.Probability.1","Math_G3",1.49418245753845,0.05,1,"logit",1,1.49418245753845,0
+"Opportunity 3","Hard","A94119","Math",3,"4.Measurement","4.Measurement.1","Math_G3",-0.101100907209465,0.42,1,"logit",1,-0.101100907209465,0
+"Opportunity 3","Hard","A91806","Natural Science",5,"3.Earth Science","3.Earth Science.5","Natural Science_G5",1.21622522436049,0.24,2,"adjacent logit",-2.57726812348576,5.00971857220674,NA
+"Opportunity 2","Hard","A45168","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",0.0110468405500141,0.15,1,"logit",1,0.0110468405500141,0
+"Opportunity 2","Hard","A50394","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",0.807221206477094,0.09,1,"logit",1,0.807221206477094,0
+"Opportunity 1","Hard","A85403","Math",3,"3.Geometry","3.Geometry.2","Math_G3",1.62085812925199,0.11,1,"logit",1,1.62085812925199,0
+"Opportunity 2","Hard","A39065","Natural Science",5,"4.Chemistry","4.Chemistry.6","Natural Science_G5",0.329818763292317,0.47,2,"adjacent logit",-1.16965061355708,1.82928814014171,NA
+"Opportunity 1","Hard","A13205","Math",3,"3.Geometry","3.Geometry.3","Math_G3",0.78446646489618,0.08,1,"logit",1,0.78446646489618,0
+"Opportunity 1","Hard","A74952","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",0.624712908121438,0.49,1,"logit",1,0.624712908121438,0
+"Opportunity 1","Hard","A98384","Math",3,"4.Measurement","4.Measurement.4","Math_G3",1.73578196460045,0,2,"adjacent logit",-2.43940652386783,5.91097045306874,NA
+"Opportunity 2","Hard","A36621","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",0.878969395805176,0.31,1,"logit",1,0.878969395805176,0
+"Opportunity 3","Hard","A52563","Math",3,"3.Geometry","3.Geometry.2","Math_G3",0.765686146213026,0.06,1,"logit",1,0.765686146213026,0
+"Opportunity 2","Hard","A93719","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",0.8243481530863,0.47,1,"logit",1,0.8243481530863,0
+"Opportunity 2","Hard","A62721","Natural Science",5,"4.Chemistry","4.Chemistry.2","Natural Science_G5",1.53601980183463,0.21,2,"adjacent logit",-3.61243845998283,6.68447806365209,NA
+"Opportunity 2","Hard","A93823","Natural Science",5,"1.Biology","1.Biology.5","Natural Science_G5",0.304906676707834,0.11,1,"logit",1,0.304906676707834,0
+"Opportunity 3","Hard","A53251","Language Arts",4,"1.Vocabulary","1.Vocabulary.2","Language Arts_G4",0.721610936002637,0.25,1,"logit",1,0.721610936002637,0
+"Opportunity 1","Hard","A79299","Math",3,"2.Algebra","2.Algebra.3","Math_G3",1.85134735708826,0.21,1,"logit",1,1.85134735708826,0
+"Opportunity 1","Hard","A39366","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",1.22662929364191,0.35,1,"logit",1,1.22662929364191,0
+"Opportunity 2","Hard","A31312","Math",3,"2.Algebra","2.Algebra.3","Math_G3",1.10970868008042,0.46,1,"logit",1,1.10970868008042,0
+"Opportunity 2","Hard","A95070","Natural Science",5,"4.Chemistry","4.Chemistry.5","Natural Science_G5",1.5785508610358,0.27,1,"logit",1,1.5785508610358,0
+"Opportunity 3","Hard","A38137","Natural Science",5,"2.Physics","2.Physics.6","Natural Science_G5",0.0992709060635083,0.09,1,"logit",1,0.0992709060635083,0
+"Opportunity 3","Hard","A26208","Language Arts",4,"3.Grammar","3.Grammar.3","Language Arts_G4",0.33201702995867,0.01,1,"logit",1,0.33201702995867,0
+"Opportunity 2","Hard","A58744","Natural Science",5,"1.Biology","1.Biology.1","Natural Science_G5",1.95788385281918,0.13,2,"adjacent logit",-1.84176127959051,5.75752898522886,NA
+"Opportunity 3","Hard","A48515","Math",3,"1.Probability","1.Probability.4","Math_G3",1.46207848332657,0.49,1,"logit",1,1.46207848332657,0
+"Opportunity 2","Hard","A34049","Language Arts",4,"4.Writing","4.Writing.3","Language Arts_G4",2.14097802908954,0.34,1,"logit",1,2.14097802908954,0
+"Opportunity 2","Hard","A11120","Natural Science",5,"4.Chemistry","4.Chemistry.3","Natural Science_G5",0.900618693604393,0.16,1,"logit",1,0.900618693604393,0
+"Opportunity 3","Hard","A82338","Natural Science",5,"1.Biology","1.Biology.3","Natural Science_G5",1.58590067250696,0.17,1,"logit",1,1.58590067250696,0
+"Opportunity 2","Hard","A59889","Natural Science",5,"4.Chemistry","4.Chemistry.1","Natural Science_G5",-0.0503061403485121,0.31,1,"logit",1,-0.0503061403485121,0

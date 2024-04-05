@@ -7,7 +7,9 @@ library(shinydashboard)
 library(shinythemes)
 library(readr)
 
-#install.packages("shinythemes")
+source('C:/Users/jichen/Documents/GitHub/Form-Review-Tool/TIFTCC.R')
+
+
 library('shinythemes')
 rm(list = ls())
 graphics.off()
@@ -33,7 +35,47 @@ hline <- function(y = 0, color = "green") {
 
 ####################################################################################
 data_dir <- 'C:/Users/jichen/Documents/GitHub/Form-Review-Tool/'
-df <- read.csv(paste0(data_dir,'df.csv'))
+df<- read.csv(paste0(data_dir,'items_simulated.csv'))
+
+a = 1
+c = 0
+D = 1
+thetas <- round(seq(-5, 5, by = 0.1), 2)
+
+
+# df <- read.csv(paste0(data_dir,'df.csv'))
+# 
+# # Generate 900 numbers with ~20% 2s and ~80% 1s
+# set.seed(123) # Set a seed for reproducibility
+# numbers <- sample(c(1, 2), size = dim(df)[1], replace = TRUE, prob = c(0.8, 0.2))
+# df$ScorePoints <- numbers
+# df[df$ScorePoints==1,'model'] <- 'logit'
+# df[df$ScorePoints==2,'model'] <- 'adjacent logit'
+# 
+# #-----------------generate P0, P1, and P2------------------------------------------------
+# # Assuming C is a given positive vector
+# C <- df$difficulty
+# 
+# # Generate A as uniform random numbers, with an upper limit of C/2 to ensure A will be smaller than B
+# A <- runif(length(C), min=-4, max=2*C/2)
+# 
+# # Calculate B as C - A
+# B <- 2*C - A
+# 
+# # Check to ensure A is smaller than B (this should always be true by construction)
+# all(A < B) # Expected to be TRUE
+# 
+# # Showing the variables
+# data.frame(A, B, C)
+# df$P0<-A
+# df$P1<-B
+# df[df$ScorePoints==1,'P0'] = 1
+# df[df$ScorePoints==1,'P1'] = df[df$ScorePoints==1,'difficulty']
+# df[df$ScorePoints==1,'P2'] = 0
+# df[df$ScorePoints==2,'P2'] = NA
+# write.csv(df,'C:/Users/jichen/Documents/GitHub/Form-Review-Tool/items_simulated.csv',row.names = FALSE)
+
+
 
 
 ##############################################################################
@@ -109,8 +151,8 @@ ui<-
       df_opp_sub <- df_opp %>% filter(Subject == sub_selected)
       df_opp_sub_form <- df_opp_sub %>% filter(Form == input$form)
 
-      res <- df_opp_sub_form
-      res
+      df_opp_sub_form
+      
       
     })
  
@@ -148,7 +190,9 @@ ui<-
 
   output$view <- renderTable({
     #head(datasetInput(), n = input$obs)
-    datasetInput()
+    #datasetInput()
+    
+    datasetInput()[ , -which(names(datasetInput()) %in% c("Subject_Grade","model"))]
   })
 
 ###########################################################################  
@@ -210,8 +254,8 @@ ui<-
     else {sub_selected <-'Language Arts'}
     
     df_opp_sub <- df_opp %>% filter(Subject == sub_selected)
-    res <- df_opp_sub
-    res
+    df_opp_sub
+    
     
   })
   
@@ -293,25 +337,15 @@ ui<-
   
         
         # Output: Verbatim text for data summary ----
-        h3("Dichotomous Item P-value Scatter Plot"),
-        plotlyOutput(outputId = "DiPVPlot"),
+        h3("Test Information Curve"),
+        plotlyOutput(outputId = "TICPlot"),
         br(),
         
         # Output: Verbatim text for data summary ----
-        h3("Polytomous Item P-Value Scatter Plot"),
-        plotlyOutput(outputId = "PoPVPlot"),
-        br(),
-        
-        # Output: Verbatim text for data summary ----
-        h3("Item Point Biserial Plot"),
-        plotlyOutput(outputId = "PBPlot"),
-        br(),
-        
-        
-        # Output: Verbatim text for data summary ----
-        h3("Item Rasch Fit Stat Plot"),
-        plotlyOutput(outputId = "FITPlot"),
+        h3("Test Characteristic Curve"),
+        plotlyOutput(outputId = "TCCPlot"),
         br()
+    
         
    
         
@@ -322,28 +356,86 @@ ui<-
   })#renderUI
   
   #------------------------------------------------------------------------------
+  
+  
+  
   datasetInputP3 <- reactive({
     
-    df_opp <- df %>% filter(Opp == input$OpporP3)
+    df_opp <- df %>% filter(Opps == input$OpporP3)
     
     if (grepl("Math", input$SubjP3)){sub_selected <-'Math'}
-    else if (grepl("Science", input$SubjP3)){sub_selected <-'Science'}
-    else {sub_selected <-'Social Studies'}
-    grade_selected <- parse_number(input$SubjP3)
-    df_opp_sub <- df_opp %>% filter(Subject == sub_selected & Grade == grade_selected)
-    res <- df_opp_sub
-    res
-
+    else if (grepl("Science", input$SubjP3)){sub_selected <-'Natural Science'}
+    else {sub_selected <-'Language Arts'}
+    
+    df_opp_sub <- df_opp %>% filter(Subject == sub_selected)
+    df_opp_sub
+    
+    
   })
   
   
-
   
   
+  #------------
+  output$TCCPlot <- renderPlotly({
+    dataset <- datasetInputP3()
+    
+    easy_form <- dataset[dataset$Form=='Easy',]
+    medium_form <- dataset[dataset$Form=='Medium',]
+    hard_form <- dataset[dataset$Form=='Hard',]
+    
+    easy_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, easy_form, 1))
+    medium_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, medium_form, 1))
+    hard_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, hard_form, 1))
+    
+  
+    fig <- plot_ly() %>%
+      add_lines(x = thetas, y = easy_tcc, name = 'Easy', line = list(color = 'green')) %>%
+      add_lines(x = thetas, y = medium_tcc, name = 'Medium', line = list(color = 'blue')) %>%
+      add_lines(x = thetas, y = hard_tcc, name = 'Hard', line = list(color = 'red')) %>%
+      layout(title = 'Test Characteristic Curve by Theta',
+             xaxis = list(title = 'Theta'),
+             yaxis = list(title = 'Test Characteristic Curve'),
+             width = 600,  # Narrower width in pixels
+             height = 400)  # Taller height in pixels)
+    
+    
+    fig
+    
+    
+  })
   
   
+  #------------
+  output$TICPlot <- renderPlotly({
+    dataset <- datasetInputP3()
+    
+    easy_form <- dataset[dataset$Form=='Easy',]
+    medium_form <- dataset[dataset$Form=='Medium',]
+    hard_form <- dataset[dataset$Form=='Hard',]
+    
+    easy_tic<- lapply(thetas, function(theta) test_Information(theta, easy_form, 0))
+    medium_tic<- lapply(thetas, function(theta) test_Information(theta, medium_form, 0))
+    hard_tic<- lapply(thetas, function(theta) test_Information(theta, hard_form, 0))
+    
+    
+    fig <- plot_ly() %>%
+      add_lines(x = thetas, y = easy_tic, name = 'Easy', line = list(color = 'green')) %>%
+      add_lines(x = thetas, y = medium_tic, name = 'Medium', line = list(color = 'blue')) %>%
+      add_lines(x = thetas, y = hard_tic, name = 'Hard', line = list(color = 'red')) %>%
+      layout(title = 'Test Information Curve by Theta',
+             xaxis = list(title = 'Theta'),
+             yaxis = list(title = 'Test Information Curve'),
+             width = 600,  # Narrower width in pixels
+             height = 400)  # Taller height in pixels)
+    
+    
+    fig
+    
+    
+  })
   
-  
+ 
   
   
   
