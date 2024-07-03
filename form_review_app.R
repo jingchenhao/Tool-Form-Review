@@ -7,7 +7,7 @@ library(shinydashboard)
 library(shinythemes)
 library(readr)
 
-source('C:/Users/jichen/Documents/GitHub/Form-Review-Tool/TIFTCC.R')
+source('C:/Users/jichen/Documents/GitHub/Tool-Form-Review/TIFTCC.R')
 
 
 library('shinythemes')
@@ -34,7 +34,7 @@ hline <- function(y = 0, color = "green") {
 
 
 ####################################################################################
-data_dir <- 'C:/Users/jichen/Documents/GitHub/Form-Review-Tool/'
+data_dir <- 'C:/Users/jichen/Documents/GitHub/Tool-Form-Review/'
 df<- read.csv(paste0(data_dir,'items_simulated.csv'))
 
 a = 1
@@ -279,7 +279,7 @@ ui<-
     if (input$SubjP2 == 'Grade 5 Natural Science'){sheetname<-'G5' }
 
     
-    targ <- read_excel('C:/Users/jichen/Documents/GitHub/Form-Review-Tool/targets.xlsx',sheet=sheetname)
+    targ <- read_excel('C:/Users/jichen/Documents/GitHub/Tool-Form-Review/targets.xlsx',sheet=sheetname)
     targ <- targ[which(targ$Opp==input$OpporP2),]
     targ <- subset(targ, select=-Opp)
     dif_table <- merge(x=dif_table,y=targ, by = 'Form')
