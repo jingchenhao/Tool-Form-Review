@@ -143,66 +143,66 @@ test_Information <- function(theta, form, normalization = 0) {
 
 
 
-a = 1
-c = 0
-D = 1
+# a = 1
+# c = 0
+# D = 1
 
-item_ExpectedScore(0,a,c, D, -0.8951,'logit')
-item_ExpectedScore(0,a,c, D, c(-0.8959, 0.2741),'adjacent logit')
+# item_ExpectedScore(0,a,c, D, -0.8951,'logit')
+# item_ExpectedScore(0,a,c, D, c(-0.8959, 0.2741),'adjacent logit')
 
-item_ExpectedProb(0,a,c, D, -0.8951,'logit')
-item_ExpectedProb(0,a,c, D, c(-0.8959, 0.2741),'adjacent logit')
+# item_ExpectedProb(0,a,c, D, -0.8951,'logit')
+# item_ExpectedProb(0,a,c, D, c(-0.8959, 0.2741),'adjacent logit')
 
-item_Information(0,a,c, D, -0.8951,'logit')
-item_Information(0,a,c, D, c(-0.8959, 0.2741),'adjacent logit')
+# item_Information(0,a,c, D, -0.8951,'logit')
+# item_Information(0,a,c, D, c(-0.8959, 0.2741),'adjacent logit')
 
-data <-read.csv("C:/Users/jichen/Documents/GitHub/Form-Review-Tool/tmp.csv")
-names(data)[names(data) == "item_id"] <- "ItemId"
-names(data)[names(data) == "IAT.Max.Score"] <- "ScorePoints"
+# data <-read.csv("C:/Users/jichen/Documents/GitHub/Form-Review-Tool/tmp.csv")
+# names(data)[names(data) == "item_id"] <- "ItemId"
+# names(data)[names(data) == "IAT.Max.Score"] <- "ScorePoints"
 
-formA <- data[(data$opp == 'Opp2')&(data$stage=='Stage2')&(data$difficulty=='Low'),]
-formB <- data[(data$opp == 'Opp2')&(data$stage=='Stage2')&(data$difficulty=='Medium'),]
-formC <- data[(data$opp == 'Opp2')&(data$stage=='Stage2')&(data$difficulty=='High'),]
+# formA <- data[(data$opp == 'Opp2')&(data$stage=='Stage2')&(data$difficulty=='Low'),]
+# formB <- data[(data$opp == 'Opp2')&(data$stage=='Stage2')&(data$difficulty=='Medium'),]
+# formC <- data[(data$opp == 'Opp2')&(data$stage=='Stage2')&(data$difficulty=='High'),]
 
-test_ExpectedScore(0, formA,1)
-test_Information(0, formA,0)
+# test_ExpectedScore(0, formA,1)
+# test_Information(0, formA,0)
 
-thetas <- round(seq(-4, 4, by = 0.1), 2)
-lapply(thetas, function(theta) test_ExpectedScore(theta, formA, 0))
-lapply(thetas, function(theta) test_Information(theta, formA, 0))
+# thetas <- round(seq(-4, 4, by = 0.1), 2)
+# lapply(thetas, function(theta) test_ExpectedScore(theta, formA, 0))
+# lapply(thetas, function(theta) test_Information(theta, formA, 0))
 
-thetas <- round(seq(-4, 4, by = 0.1), 2)
-formA_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, formA, 1))
-formB_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, formB, 1))
-formC_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, formC, 1))
+# thetas <- round(seq(-4, 4, by = 0.1), 2)
+# formA_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, formA, 1))
+# formB_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, formB, 1))
+# formC_tcc<- lapply(thetas, function(theta) test_ExpectedScore(theta, formC, 1))
 
-formA_tic<- lapply(thetas, function(theta) test_Information(theta, formA, 0))
-formB_tic<- lapply(thetas, function(theta) test_Information(theta, formB, 0))
-formC_tic<- lapply(thetas, function(theta) test_Information(theta, formC, 0))
+# formA_tic<- lapply(thetas, function(theta) test_Information(theta, formA, 0))
+# formB_tic<- lapply(thetas, function(theta) test_Information(theta, formB, 0))
+# formC_tic<- lapply(thetas, function(theta) test_Information(theta, formC, 0))
 
 
-library(plotly)
+# library(plotly)
 
-  p <- plot_ly() %>%
-    add_lines(x = thetas, y = formA_tcc, name = 'Low', line = list(color = 'orange')) %>%
-    add_lines(x = thetas, y = formB_tcc, name = 'Medium', line = list(color = 'blue')) %>%
-    add_lines(x = thetas, y = formC_tcc, name = 'High', line = list(color = 'red')) %>%
-    layout(title = 'Test Characteristic Curve by Theta',
-           xaxis = list(title = 'Theta'),
-           yaxis = list(title = 'Test Characteristic Curve'))
+#   p <- plot_ly() %>%
+#     add_lines(x = thetas, y = formA_tcc, name = 'Low', line = list(color = 'orange')) %>%
+#     add_lines(x = thetas, y = formB_tcc, name = 'Medium', line = list(color = 'blue')) %>%
+#     add_lines(x = thetas, y = formC_tcc, name = 'High', line = list(color = 'red')) %>%
+#     layout(title = 'Test Characteristic Curve by Theta',
+#            xaxis = list(title = 'Theta'),
+#            yaxis = list(title = 'Test Characteristic Curve'))
   
-  # Show plot
-  p
+#   # Show plot
+#   p
   
 
-  p <- plot_ly() %>%
-    add_lines(x = thetas, y = formA_tic, name = 'Low', line = list(color = 'green')) %>%
-    add_lines(x = thetas, y = formB_tic, name = 'Medium', line = list(color = 'blue')) %>%
-    add_lines(x = thetas, y = formC_tic, name = 'High', line = list(color = 'orange')) %>%
-    layout(title = 'Test Characteristic Curve by Theta',
-           xaxis = list(title = 'Theta'),
-           yaxis = list(title = 'Test Characteristic Curve'))
+#   p <- plot_ly() %>%
+#     add_lines(x = thetas, y = formA_tic, name = 'Low', line = list(color = 'green')) %>%
+#     add_lines(x = thetas, y = formB_tic, name = 'Medium', line = list(color = 'blue')) %>%
+#     add_lines(x = thetas, y = formC_tic, name = 'High', line = list(color = 'orange')) %>%
+#     layout(title = 'Test Characteristic Curve by Theta',
+#            xaxis = list(title = 'Theta'),
+#            yaxis = list(title = 'Test Characteristic Curve'))
   
-  # Show plot
-  p
+#   # Show plot
+#   p
 
