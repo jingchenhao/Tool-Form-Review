@@ -31,13 +31,6 @@ This tool is created to support test form review.
 ## Installation 
 
 R libraries 
-library(shiny)
-library(dplyr)
-library(readxl)
-library(tidyr)
-library(plotly)
-library(shinydashboard)
-library(shinythemes)
-library(readr)
+shiny, dplyr, readxl, tidyr, plotly, shinydashboard, shinythemes, readr
 
 
