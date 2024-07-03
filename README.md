@@ -9,7 +9,13 @@ This tool is created to support test form review.
   ![image](https://github.com/jingchenhao/Tool-Form-Review/assets/71888017/91c1dee4-4637-4de7-979e-8533b5b359b5)
 
 * It checks the item difficulty distribution and item p-values of each form.
+
+  ![image](https://github.com/jingchenhao/Tool-Form-Review/assets/71888017/e13f8b63-e9cc-4f61-9cc6-fd8589eacb49)
+
 * It evaluates test forms by examining test information curves and test characteristic curves.
+
+  ![image](https://github.com/jingchenhao/Tool-Form-Review/assets/71888017/8167430a-d0a9-4224-b05c-72f795cdf9fe)
+
 
 ## Getting Started
 
