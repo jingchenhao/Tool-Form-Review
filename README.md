@@ -20,12 +20,24 @@ This tool is created to support test form review.
 ## Getting Started
 
 * Inputs:
+  - items_simulated.csv file is the simulated item parameter file for test forms
+  - targets.xlsx file contains targeted item difficulty ranges for different forms. 
 
 
 * Process file:
+  - form_review_app.R is the R shiny program to run the tool. 
 
 
-### Installing
-Jinja2, pandas, numpy and os
+## Installation 
+
+R libraries 
+library(shiny)
+library(dplyr)
+library(readxl)
+library(tidyr)
+library(plotly)
+library(shinydashboard)
+library(shinythemes)
+library(readr)
 
 
